@@ -23,9 +23,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(17).rar" style="text-decoration:none;">Physics: The Pearson Complete Guide to the AIEEE </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(18).rar" style="text-decoration:none;">Physics For IIT-JEE 2012-2013</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(19).pdf" style="text-decoration:none;">Physics Multiple Choice Questions (MCQ) </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(9).pdf" style="text-decoration:none;">Modern Physics for IIT JEE </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(10).pdf" style="text-decoration:none;">Solutions to Magnetism Section of Numerical Examples in Physics</a></b></li>                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(11).pdf" style="text-decoration:none;">Solutions of Optics and Modern Physics: Lesson 26th to 30th</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(20).pdf" style="text-decoration:none;">PHYSICS XII CHAPTERS 19-23 </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(21).pdf" style="text-decoration:none;">PHYSICS Formula Book for Engineering Entrance Examinations</a></b></li>                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(22).rar" style="text-decoration:none;">Problems in Physics for IIT-JEE (Advanced)</a></b></li>  
   
   
   
