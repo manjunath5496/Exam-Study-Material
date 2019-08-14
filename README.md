@@ -13,5 +13,27 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(8).pdf" style="text-decoration:none;">Understanding Physics: Mechanics (Part-2) </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(9).pdf" style="text-decoration:none;">Modern Physics for IIT JEE </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(10).pdf" style="text-decoration:none;">Solutions to Magnetism Section of Numerical Examples in Physics</a></b></li>                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(11).pdf" style="text-decoration:none;">Solutions of Optics and Modern Physics: Lesson 26th to 30th</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(11).pdf" style="text-decoration:none;">Solutions of Optics and Modern Physics: Lesson 26th to 30th</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(12).pdf" style="text-decoration:none;">OSWAAL NCERT Solutions–Text Book + Exemplar, PHYSICS, CLASS-XI</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(13).pdf" style="text-decoration:none;">15 Practice Sets for JEE Main 2019</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(14).rar" style="text-decoration:none;">IIT Foundation Series - Physics - Class 9 </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(15).rar" style="text-decoration:none;">IIT Foundation Series - Physics - Class 10 </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(16).rar" style="text-decoration:none;">Physics 41 Years (1978-2018) JEE Advanced (IIT-JEE) + 17 yrs JEE Main (2002-2018)Topic-Wise Solved Papers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(17).rar" style="text-decoration:none;">Physics: The Pearson Complete Guide to the AIEEE </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(18).rar" style="text-decoration:none;">Physics For IIT-JEE 2012-2013</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(19).pdf" style="text-decoration:none;">Physics Multiple Choice Questions (MCQ) </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(9).pdf" style="text-decoration:none;">Modern Physics for IIT JEE </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(10).pdf" style="text-decoration:none;">Solutions to Magnetism Section of Numerical Examples in Physics</a></b></li>                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(11).pdf" style="text-decoration:none;">Solutions of Optics and Modern Physics: Lesson 26th to 30th</a></b></li>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  </ul>
