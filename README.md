@@ -4,7 +4,7 @@
 
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(1).rar" style="text-decoration:none;">40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs (2002-2017) JEE Main Topic-wise Solved Paper Physics</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(2).pdf" style="text-decoration:none;">Eight lectures on theoretical physics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(2).rar" style="text-decoration:none;">Understanding Physics: Electricity and Magnetism</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(3).pdf" style="text-decoration:none;">The Mechanics of Deformable Bodies</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(4).pdf" style="text-decoration:none;">The Origin and Development of the Quantum Theory </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(5).pdf" style="text-decoration:none;">Scientific Autobiography and Other Papers</a></b></li>
