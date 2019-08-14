@@ -27,7 +27,17 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(21).pdf" style="text-decoration:none;">PHYSICS Formula Book for Engineering Entrance Examinations</a></b></li>                               
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(22).rar" style="text-decoration:none;">Problems in Physics for IIT-JEE (Advanced)</a></b></li>  
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(23).pdf" style="text-decoration:none;">Problems in Physics (Part 1 + Part 2)</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(24).pdf" style="text-decoration:none;">Aptitude Test Problems in Physics </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(25).pdf" style="text-decoration:none;">QUANTUM MECHANICS FORMULA SHEET </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(26).pdf" style="text-decoration:none;">Roorkey 1996 Physics Question Paper and Solution</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(27).pdf" style="text-decoration:none;">HC Verma solutions for Concepts of Physics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(28).pdf" style="text-decoration:none;">IE Irodov's Problems in general physics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(29).pdf" style="text-decoration:none;">Detailed Solutions of Replica Test Papers (JEE) </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(30).pdf" style="text-decoration:none;">Topics there are not there in Concepts of Physics by Professor H C Verma for IIT JEE and Other Engineering
+Entrance Exams </a></b></li>                              
+ 
+    
   
   
   
