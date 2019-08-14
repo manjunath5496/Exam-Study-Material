@@ -42,7 +42,7 @@ Entrance Exams </a></b></li>
  </ul>
  
  
- <p> <strong> Physics:  </strong></p>
+ <p> <strong> Chemistry:  </strong></p>
 
 
 <ul>
