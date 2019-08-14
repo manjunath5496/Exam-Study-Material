@@ -1,6 +1,6 @@
 <h2> IIT JEE   </h2>
 
-
+<p> <strong> Physics:  </strong></p>
 
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Mathematical-Universe/blob/master/mx(1).pdf" style="text-decoration:none;">A Survey of Physical Theory</a></b></li>
