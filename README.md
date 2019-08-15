@@ -38,7 +38,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(30).pdf" style="text-decoration:none;">Topics there are not there in Concepts of Physics by Professor H C Verma for IIT JEE and Other Engineering
 Entrance Exams </a></b></li>                              
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(103).pdf" style="text-decoration:none;">Problems in General Physics</a></b></li>   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(110).pdf" style="text-decoration:none;">The Feynman Lectures on Physics</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(110).pdf" style="text-decoration:none;">The Feynman Lectures on Physics</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(112).rar" style="text-decoration:none;">Fundamentals of Physics</a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(113).pdf" style="text-decoration:none;">Basic Laws Of Electromagnetism : I. E. Irodov</a></b></li>  
  </ul>
  
  </br>
