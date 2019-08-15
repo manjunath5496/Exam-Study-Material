@@ -82,7 +82,9 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(41).pdf" style="text-decoration:none;">Atkins' Physical Chemistry </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(49).pdf" style="text-decoration:none;">Organic Chemistry as a Second Language </a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(106).pdf" style="text-decoration:none;">Problems in Physical Chemistry for JEE (Main & Advanced)  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(106).pdf" style="text-decoration:none;">Problems in Physical Chemistry for JEE (Main & Advanced)  </a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(109).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry  </a></b></li> 
+   
  </ul>
 </br>
  
@@ -143,7 +145,9 @@ Entrance Exams </a></b></li>
        
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(105).pdf" style="text-decoration:none;">IIT Foundation Series - Mathematics - Class 10 </a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(107).pdf" style="text-decoration:none;">Plane Trigonometry </a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(107).pdf" style="text-decoration:none;">Plane Trigonometry </a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(108).pdf" style="text-decoration:none;">Objective Mathematics -Vol 1 For JEE (Main & Advanced) & Engineering Entrance Examinations  </a></b></li>  
     
  </ul> 
  
