@@ -86,6 +86,9 @@ Entrance Exams </a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(106).pdf" style="text-decoration:none;">Problems in Physical Chemistry for JEE (Main & Advanced)  </a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(109).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry  </a></b></li> 
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(111).pdf" style="text-decoration:none;">Physical Chemistry: Robert G. Mortimer </a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(114).pdf" style="text-decoration:none;">Essentials of Inorganic Chemistry  </a></b></li> 
+      
    
  </ul>
 </br>
