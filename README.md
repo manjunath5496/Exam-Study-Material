@@ -122,7 +122,19 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(88).pdf" style="text-decoration:none;">Course in Mathematics: Algebra II </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(89).pdf" style="text-decoration:none;">Mathematics Practice Problems (Volume-1)</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(90).pdf" style="text-decoration:none;">Mathematics Practice Problems (Volume-2) </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(91).pdf" style="text-decoration:none;">Mathematics for JEE (Main & Advanced): Geometry</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(91).pdf" style="text-decoration:none;">Mathematics for JEE (Main & Advanced): Geometry</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(92).pdf" style="text-decoration:none;">Course in Mathematics: Trigonometry  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(93).pdf" style="text-decoration:none;">Course in Mathematics: Algebra I</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(94).pdf" style="text-decoration:none;">NCERT Exemplar Problems for Class 12 Maths</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(95).pdf" style="text-decoration:none;">Mathematics concept for IITJEE mains and Advanced </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(96).rar" style="text-decoration:none;">Fundamentals of Mathematics: Algebra I </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(97).rar" style="text-decoration:none;">Objective Mathematics for IIT Screening </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(98).rar" style="text-decoration:none;">Roorkey 1994 Math Practice Paper for IIT JEE Main and Advanced</a></b></li>    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(99).pdf" style="text-decoration:none;">Roorkey 1996 Math Practice Paper for IIT JEE Main and Advanced </a></b></li>
+
+ 
  
   
  </ul> 
