@@ -79,8 +79,8 @@ Entrance Exams </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(60).rar" style="text-decoration:none;">Numerical Problems in Physical Chemistry for IIT-JEE</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(61).pdf" style="text-decoration:none;">Concise Inorganic Chemistry </a></b></li>
                           
- 
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(41).pdf" style="text-decoration:none;">Atkins' Physical Chemistry </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(49).pdf" style="text-decoration:none;">Organic Chemistry as a Second Language </a></b></li>
  </ul>
 
  
