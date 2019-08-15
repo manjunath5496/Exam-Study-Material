@@ -142,7 +142,8 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(104).pdf" style="text-decoration:none;">Mathematics (Bansal Classes) </a></b></li>    
        
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(105).pdf" style="text-decoration:none;">IIT Foundation Series - Mathematics - Class 10 </a></b></li>  
-    
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(107).pdf" style="text-decoration:none;">Plane Trigonometry </a></b></li>     
     
  </ul> 
  
