@@ -112,21 +112,17 @@ Entrance Exams </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(80).pdf" style="text-decoration:none;">Mathematics for IIT-JEE: Algebra </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(81).pdf" style="text-decoration:none;">Mathematical Tricks: A must for all competitive exams </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(82).pdf" style="text-decoration:none;">Algebra I for IIT-JEE</a></b></li>                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(83).pdf" style="text-decoration:none;">Courses in Mathematics: Calculus II </a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(83).pdf" style="text-decoration:none;">Course in Mathematics: Calculus II </a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(84).pdf" style="text-decoration:none;">Making Sense of Mathematics </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(85).pdf" style="text-decoration:none;">Algebra II for IIT-JEE </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(86).pdf" style="text-decoration:none;">Courses in Mathematics: Coordinate geometry</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(87).pdf" style="text-decoration:none;">Courses in Mathematics: Calculus I</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(86).pdf" style="text-decoration:none;">Course in Mathematics: Coordinate geometry</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(87).pdf" style="text-decoration:none;">Course in Mathematics: Calculus I</a></b></li>
 
-
-
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(88).pdf" style="text-decoration:none;">HC Verma solutions for Concepts of Physics </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(28).pdf" style="text-decoration:none;">IE Irodov's Problems in general physics</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(29).pdf" style="text-decoration:none;">Detailed Solutions of Replica Test Papers (JEE) </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(30).pdf" style="text-decoration:none;">Topics there are not there in Concepts of Physics by Professor H C Verma for IIT JEE and Other Engineering
-Entrance Exams </a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(88).pdf" style="text-decoration:none;">Course in Mathematics: Algebra II </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(89).pdf" style="text-decoration:none;">Mathematics Practice Problems (Volume-1)</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(90).pdf" style="text-decoration:none;">Mathematics Practice Problems (Volume-2) </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(91).pdf" style="text-decoration:none;">Mathematics for JEE (Main & Advanced): Geometry</a></b></li>                              
  
   
  </ul> 
