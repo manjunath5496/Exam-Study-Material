@@ -110,15 +110,19 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(78).pdf" style="text-decoration:none;">Mathematics for IIT-JEE: Differential Calculus, Algebra, Trigonometry </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(79).pdf" style="text-decoration:none;">Mathematics for IIT-JEE: Two Dimensional Coordinate Geometry, Vector And Three Dimensional Geometry, Integral Calculus, Algebra</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(80).pdf" style="text-decoration:none;">Mathematics for IIT-JEE: Algebra </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(20).pdf" style="text-decoration:none;">PHYSICS XII CHAPTERS 19-23 </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(21).pdf" style="text-decoration:none;">PHYSICS Formula Book for Engineering Entrance Examinations</a></b></li>                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(22).rar" style="text-decoration:none;">Problems in Physics for IIT-JEE (Advanced)</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(81).pdf" style="text-decoration:none;">Mathematical Tricks: A must for all competitive exams </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(82).pdf" style="text-decoration:none;">Algebra I for IIT-JEE</a></b></li>                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(83).pdf" style="text-decoration:none;">Courses in Mathematics: Calculus II </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(23).pdf" style="text-decoration:none;">Problems in Physics (Part 1 + Part 2)</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(24).pdf" style="text-decoration:none;">Aptitude Test Problems in Physics </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(25).pdf" style="text-decoration:none;">QUANTUM MECHANICS FORMULA SHEET </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(26).pdf" style="text-decoration:none;">Roorkey 1996 Physics Question Paper and Solution</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(27).pdf" style="text-decoration:none;">HC Verma solutions for Concepts of Physics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(84).pdf" style="text-decoration:none;">Making Sense of Mathematics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(85).pdf" style="text-decoration:none;">Algebra II for IIT-JEE </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(86).pdf" style="text-decoration:none;">Courses in Mathematics: Coordinate geometry</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(87).pdf" style="text-decoration:none;">Courses in Mathematics: Calculus I</a></b></li>
+
+
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(88).pdf" style="text-decoration:none;">HC Verma solutions for Concepts of Physics </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(28).pdf" style="text-decoration:none;">IE Irodov's Problems in general physics</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(29).pdf" style="text-decoration:none;">Detailed Solutions of Replica Test Papers (JEE) </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(30).pdf" style="text-decoration:none;">Topics there are not there in Concepts of Physics by Professor H C Verma for IIT JEE and Other Engineering
