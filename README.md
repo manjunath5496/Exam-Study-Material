@@ -81,6 +81,8 @@ Entrance Exams </a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(41).pdf" style="text-decoration:none;">Atkins' Physical Chemistry </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(49).pdf" style="text-decoration:none;">Organic Chemistry as a Second Language </a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(106).pdf" style="text-decoration:none;">Problems in Physical Chemistry for JEE (Main & Advanced)  </a></b></li> 
  </ul>
 </br>
  
@@ -138,7 +140,8 @@ Entrance Exams </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(102).pdf" style="text-decoration:none;">Higher Algebra</a></b></li>
     
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(104).pdf" style="text-decoration:none;">Mathematics (Bansal Classes) </a></b></li>    
-    
+       
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(105).pdf" style="text-decoration:none;">IIT Foundation Series - Mathematics - Class 10 </a></b></li>  
     
     
  </ul> 
