@@ -37,7 +37,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(29).pdf" style="text-decoration:none;">Detailed Solutions of Replica Test Papers (JEE) </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(30).pdf" style="text-decoration:none;">Topics there are not there in Concepts of Physics by Professor H C Verma for IIT JEE and Other Engineering
 Entrance Exams </a></b></li>                              
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(103).pdf" style="text-decoration:none;">Problems in General Physics</a></b></li>   
   
  </ul>
  
@@ -137,7 +137,7 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(101).pdf" style="text-decoration:none;">The elements of coordinate geometry</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(102).pdf" style="text-decoration:none;">Higher Algebra</a></b></li>
     
-    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(104).pdf" style="text-decoration:none;">Mathematics (Bansal Classes) </a></b></li>    
     
     
     
