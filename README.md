@@ -217,7 +217,11 @@ Entrance Exams </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(29).pdf" style="text-decoration:none;">  IELTS Workbook </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(30).pdf" style="text-decoration:none;">Academic Writing: A Handbook for International Students</a></b></li>
                                         
-                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(31).pdf" style="text-decoration:none;">How to Master the IELTS </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(32).pdf" style="text-decoration:none;">IELTS Writing Compact Graph Review </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(33).pdf" style="text-decoration:none;"> Improve Your Skills: Listening and Speaking for IELTS </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(34).pdf" style="text-decoration:none;">Practice Tests for IELTS 2 </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(5).pdf" style="text-decoration:none;">Cambridge IELTS 5 with Answers</a></b></li>                                
                                 
                                 
                                 
