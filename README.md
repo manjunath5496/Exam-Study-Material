@@ -224,7 +224,7 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(35).pdf" style="text-decoration:none;">IELTS Superior Speaking</a></b></li>                                
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(18).pdf" style="text-decoration:none;">New Insight into IELTS </a></b></li>                                  
-                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(24).pdf" style="text-decoration:none;">IELTS Trainer: Six Practice Tests with Answers </a></b></li>                                    
  
  </ul>
 
