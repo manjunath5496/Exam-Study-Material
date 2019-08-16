@@ -223,7 +223,7 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(34).pdf" style="text-decoration:none;">Kaplan's IELTS Premier with 8 Practice Tests  </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(35).pdf" style="text-decoration:none;">IELTS Superior Speaking</a></b></li>                                
                                 
-                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(18).pdf" style="text-decoration:none;">New Insight into IELTS </a></b></li>                                  
                                 
  
  </ul>
