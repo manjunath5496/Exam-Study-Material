@@ -203,19 +203,16 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(15).pdf" style="text-decoration:none;">Grammar for IELTS </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(16).pdf" style="text-decoration:none;">IELTS Reading Practice Tests</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(17).pdf" style="text-decoration:none;">IELTS Spirit: Study smart, not hard   </a></b></li>
+                                       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(19).pdf" style="text-decoration:none;">Study Guide to the 404 Essential Tests for IELTS</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(20).pdf" style="text-decoration:none;">IELTS Reading Recent Actual Tests (2016 – 2017) With Answers</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(21).pdf" style="text-decoration:none;">IELTS Handbook 2007</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(22).pdf" style="text-decoration:none;">101 Helpful Hints for IELTS: Academic Module</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(23).pdf" style="text-decoration:none;">202 Useful Exercises for IELTS </a></b></li>
                                 
                                 
                                 
-                                
-                                
-                                
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(18).pdf" style="text-decoration:none;">Mathematics of the 19th Century: Mathematical Logic Algebra Number Theory Probability Theory</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(19).pdf" style="text-decoration:none;">Methods in Mathematical Logic </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(20).pdf" style="text-decoration:none;">Gödel's Proof</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(21).pdf" style="text-decoration:none;">Pure Mathematics for Beginners: A Rigorous Introduction to Logic, Set Theory, Abstract Algebra, Number Theory, Real Analysis, Topology, Complex Analysis, and Linear Algebra</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(22).pdf" style="text-decoration:none;">Rethinking Logic: Logic in Relation to Mathematics, Evolution, and Method</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(23).pdf" style="text-decoration:none;">Sets, functions, and logic: an introduction to abstract mathematics </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(24).pdf" style="text-decoration:none;">How to Prove It: A Structured Approach</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(24).pdf" style="text-decoration:none;">How to Prove It: A Structured Approach</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(25).pdf" style="text-decoration:none;">The Adventure of Reason: Interplay between Philosophy of Mathematics and Mathematical Logic, 1900–1940</a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(26).pdf" style="text-decoration:none;">The Development of Mathematical Logic from Russell to Tarski: 1900–1935</a></b></li>                              
