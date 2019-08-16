@@ -186,8 +186,8 @@ Entrance Exams </a></b></li>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(1).pdf" style="text-decoration:none;">An Introduction to Symbolic Logic</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(2).pdf" style="text-decoration:none;">A First Course in Mathematical Logic and Set Theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(1).pdf" style="text-decoration:none;">Cambridge IELTS 7</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(2).pdf" style="text-decoration:none;">31 High-scoring Formulas to Answer the IELTS Speaking Questions</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(3).pdf" style="text-decoration:none;">After Godel: Platonism and Rationalism in Mathematics and Logic</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(4).pdf" style="text-decoration:none;">A Concise Introduction to Mathematical Logic  </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(5).pdf" style="text-decoration:none;">Principles of Mathematics</a></b></li>
