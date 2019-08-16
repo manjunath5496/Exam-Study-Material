@@ -162,26 +162,22 @@ Entrance Exams </a></b></li>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(1).pdf" style="text-decoration:none;">An Introduction to Symbolic Logic</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(2).pdf" style="text-decoration:none;">A First Course in Mathematical Logic and Set Theory</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(3).pdf" style="text-decoration:none;">After Godel: Platonism and Rationalism in Mathematics and Logic</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(4).pdf" style="text-decoration:none;">A Concise Introduction to Mathematical Logic  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(5).pdf" style="text-decoration:none;">Principles of Mathematics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(6).pdf" style="text-decoration:none;">Classical Mathematical Logic</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(7).pdf" style="text-decoration:none;">What is mathematical logic? A survey</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(8).pdf" style="text-decoration:none;">Elements of Mathematical Logic</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(9).pdf" style="text-decoration:none;"> Essays in the Philosophy and History of Logic and Mathematics</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(10).pdf" style="text-decoration:none;">From Fuzzy Logic to Fuzzy Mathematics</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(11).pdf" style="text-decoration:none;">Lectures in Logic and Set Theory: Volume 1, Mathematical Logic</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(12).pdf" style="text-decoration:none;">Logic and Discrete Mathematics: A Concise Introduction </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(13).pdf" style="text-decoration:none;"> Logic and Structure</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(14).PDF" style="text-decoration:none;">Logic as a Tool: A Guide to Formal Logical Reasoning </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(1).pdf" style="text-decoration:none;">Wren and Martin's High School English Grammar and Composition</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(2).pdf" style="text-decoration:none;">Test Your Logic: 50 Puzzles in Deductive Reasoning</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(3).pdf" style="text-decoration:none;">Upkar's CAT Complete Course</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(4).pdf" style="text-decoration:none;">Current GK for MBA Entrance Exams  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(5).pdf" style="text-decoration:none;">A Modern Approach to Verbal and Non-Verbal Reasoning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(6).pdf" style="text-decoration:none;">Math Formulas and Fundas - Handa Ka Funda </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(7).pdf" style="text-decoration:none;">How to Prepare for Data Interpretation and Logical Reasoning for CAT</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(8).pdf" style="text-decoration:none;">How to Prepare for Logical Reasoning for the CAT</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(9).pdf" style="text-decoration:none;"> How to Prepare for Quantitative Aptitude for the CAT</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(10).pdf" style="text-decoration:none;">IIFT & XAT GK COMPENDIUM 2016-17</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(11).pdf" style="text-decoration:none;">Magical Book On Quicker Maths</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(12).pdf" style="text-decoration:none;">The Pearson Guide to Quantitative Aptitude for the CAT</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(13).pdf" style="text-decoration:none;"> How to Prepare for Verbal Ability and Reading Comprehension for the CAT</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ct(14).PDF" style="text-decoration:none;">Word Power Made Easy </a></b></li>                              
 
-                                
-                                
-                                
-                                
- 
+  
  </ul>
 
 
