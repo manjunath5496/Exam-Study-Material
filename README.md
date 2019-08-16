@@ -210,16 +210,12 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(22).pdf" style="text-decoration:none;">101 Helpful Hints for IELTS: Academic Module</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(23).pdf" style="text-decoration:none;">202 Useful Exercises for IELTS </a></b></li>
                                 
-                                
-                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(24).pdf" style="text-decoration:none;">How to Prove It: A Structured Approach</a></b></li>
-                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(25).pdf" style="text-decoration:none;">The Adventure of Reason: Interplay between Philosophy of Mathematics and Mathematical Logic, 1900–1940</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(26).pdf" style="text-decoration:none;">The Development of Mathematical Logic from Russell to Tarski: 1900–1935</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(27).pdf" style="text-decoration:none;">Principles of Mathematical Logic</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(28).pdf" style="text-decoration:none;">Towards an Arithmetical Logic: The Arithmetical Foundations of Logic </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(29).pdf" style="text-decoration:none;">Omega-Bibliography of Mathematical Logic: Proof Theory Constructive Mathematics </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(30).pdf" style="text-decoration:none;">On Formally Undecidable Propositions of Principia Mathematica and Related Systems</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(25).pdf" style="text-decoration:none;">IELTS Interactive self-study:200 Advanced Vocabulary Questions</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(26).pdf" style="text-decoration:none;">IELTS Band 9 Vocab Secrets</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(27).pdf" style="text-decoration:none;">1001 Vocabulary and Spelling Questions </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(28).rar" style="text-decoration:none;">IELTS Preparation And Practice: Reading And Writing </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(29).pdf" style="text-decoration:none;">  IELTS Workbook </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/lm(30).pdf" style="text-decoration:none;">Academic Writing: A Handbook for International Students</a></b></li>
                                         
                                 
                                 
