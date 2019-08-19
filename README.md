@@ -296,8 +296,8 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(52).rar" style="text-decoration:none;">Objective English For Competitive Examinations </a></b></li>    
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(53).rar" style="text-decoration:none;"> Quick General Knowledge  </a></b></li>
- 
-  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(1).pdf" style="text-decoration:none;"> The Polity Compendium  </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(34).pdf" style="text-decoration:none;"> 21 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2015) </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(54).pdf" style="text-decoration:none;"> Basic General Knowledge  </a></b></li>
  
  
