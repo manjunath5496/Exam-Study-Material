@@ -230,18 +230,18 @@ Entrance Exams </a></b></li>
 
 </br>
 
-<h2> General Knowledge    </h2>
+<h2> GENERAL KNOWLEDGE    </h2>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(1).pdf" style="text-decoration:none;">Cambridge IELTS 7 with Answers</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(2).pdf" style="text-decoration:none;">31 High-scoring Formulas to Answer the IELTS Speaking Questions</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(3).pdf" style="text-decoration:none;">IELTS Practice Tests Plus 2 </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(4).pdf" style="text-decoration:none;">Practice Tests for IELTS 2 </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(5).pdf" style="text-decoration:none;">Cambridge IELTS 5 with Answers</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(6).pdf" style="text-decoration:none;">Achieve IELTS Grammar and Vocabulary</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(7).pdf" style="text-decoration:none;">Listening For IELTS</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(8).pdf" style="text-decoration:none;">Master IELTS Essays</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(2).pdf" style="text-decoration:none;">Smithsonian Science: Science as you've never seen it before</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(3).pdf" style="text-decoration:none;">General Knowledge Book</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(4).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(5).pdf" style="text-decoration:none;">The General Science Compendium</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(6).pdf" style="text-decoration:none;">General Knowledge 2018: India And World </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(7).pdf" style="text-decoration:none;">Caravan General Knowledge MCQs</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(8).pdf" style="text-decoration:none;">Agriculture General Knowledge</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(9).pdf" style="text-decoration:none;"> Check Your English Vocabulary for IELTS</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(10).pdf" style="text-decoration:none;">Keywords for IELTS</a></b></li>                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(11).pdf" style="text-decoration:none;">Get Ready for IELTS Listening</a></b></li>
