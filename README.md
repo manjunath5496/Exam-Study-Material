@@ -281,5 +281,20 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(42).pdf" style="text-decoration:none;"> General Awareness for IBPS, SBI, RBI, LIC and other competitive exams   </a></b></li>                                  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(43).pdf" style="text-decoration:none;">General Science for Competitive Exams </a></b></li>   
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(44).pdf" style="text-decoration:none;">SSC-GCL Cracker For General Studies</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(45).pdf" style="text-decoration:none;"> GENERAL ENGLISH for Competitive Exams   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(46).pdf" style="text-decoration:none;">Rakesh Yadav Sir's 7300+ Quick General Studies </a></b></li>    
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(47).pdf" style="text-decoration:none;"> 1500+ MCQ on Indian History   </a></b></li>                                  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
  
