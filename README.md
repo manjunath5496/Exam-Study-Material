@@ -228,6 +228,52 @@ Entrance Exams </a></b></li>
  
  </ul>
 
+</br>
 
+<h2> General Knowledge    </h2>
+
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(1).pdf" style="text-decoration:none;">Cambridge IELTS 7 with Answers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(2).pdf" style="text-decoration:none;">31 High-scoring Formulas to Answer the IELTS Speaking Questions</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(3).pdf" style="text-decoration:none;">IELTS Practice Tests Plus 2 </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(4).pdf" style="text-decoration:none;">Practice Tests for IELTS 2 </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(5).pdf" style="text-decoration:none;">Cambridge IELTS 5 with Answers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(6).pdf" style="text-decoration:none;">Achieve IELTS Grammar and Vocabulary</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(7).pdf" style="text-decoration:none;">Listening For IELTS</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(8).pdf" style="text-decoration:none;">Master IELTS Essays</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(9).pdf" style="text-decoration:none;"> Check Your English Vocabulary for IELTS</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(10).pdf" style="text-decoration:none;">Keywords for IELTS</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(11).pdf" style="text-decoration:none;">Get Ready for IELTS Listening</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(12).pdf" style="text-decoration:none;">IELTS Writing - Band 9 Essays</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(13).pdf" style="text-decoration:none;"> Best Practice Book for IELTS Writing</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(14).pdf" style="text-decoration:none;"> Check Your Vocabulary for English for the IELTS Examination </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(15).pdf" style="text-decoration:none;">Grammar for IELTS </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(16).pdf" style="text-decoration:none;">IELTS Reading Practice Tests</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(17).pdf" style="text-decoration:none;">IELTS Spirit: Study smart, not hard   </a></b></li>
+                                       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(19).pdf" style="text-decoration:none;">Study Guide to the 404 Essential Tests for IELTS</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(20).pdf" style="text-decoration:none;">IELTS Reading Recent Actual Tests (2016 – 2017) With Answers</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(21).pdf" style="text-decoration:none;">IELTS Handbook 2007</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(22).pdf" style="text-decoration:none;">101 Helpful Hints for IELTS: Academic Module</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(23).pdf" style="text-decoration:none;">202 Useful Exercises for IELTS </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(25).pdf" style="text-decoration:none;">IELTS Interactive self-study:200 Advanced Vocabulary Questions</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(26).pdf" style="text-decoration:none;">IELTS Band 9 Vocab Secrets</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(27).pdf" style="text-decoration:none;">1001 Vocabulary and Spelling Questions </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(28).rar" style="text-decoration:none;">IELTS Preparation And Practice: Reading And Writing </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(29).pdf" style="text-decoration:none;">  IELTS Workbook </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(30).pdf" style="text-decoration:none;">Academic Writing: A Handbook for International Students</a></b></li>
+                                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(31).pdf" style="text-decoration:none;">How to Master the IELTS </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(32).pdf" style="text-decoration:none;">IELTS Writing Compact Graph Review </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(33).pdf" style="text-decoration:none;"> Improve Your Skills: Listening and Speaking for IELTS </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(34).pdf" style="text-decoration:none;">Kaplan's IELTS Premier with 8 Practice Tests  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(35).pdf" style="text-decoration:none;">IELTS Superior Speaking</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(18).pdf" style="text-decoration:none;">New Insight into IELTS </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(24).pdf" style="text-decoration:none;">IELTS Trainer: Six Practice Tests with Answers </a></b></li>                                    
+ 
+ </ul>
  
  
