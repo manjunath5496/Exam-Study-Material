@@ -300,6 +300,17 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(34).pdf" style="text-decoration:none;"> 21 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2015) </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(54).pdf" style="text-decoration:none;"> Basic General Knowledge  </a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(35).pdf" style="text-decoration:none;"> Top 100 Sports GK Questions and Answers   </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(40).pdf" style="text-decoration:none;">Top 100 Biology GK Questions and Answers  </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(41).pdf" style="text-decoration:none;"> Top 100 Chemistry GK Questions and Answers </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(48).pdf" style="text-decoration:none;">Top 100 Indian Polity GK Questions Answers   </a></b></li>
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  </ul>
