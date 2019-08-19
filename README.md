@@ -306,9 +306,14 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(41).pdf" style="text-decoration:none;"> Top 100 Chemistry GK Questions and Answers </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(48).pdf" style="text-decoration:none;">Top 100 Indian Polity GK Questions Answers   </a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(55).pdf" style="text-decoration:none;">  Top 100 Computer GK Questions and Answers   </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(56).pdf" style="text-decoration:none;">Top 100 Indian Economy Questions and Answers  </a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(57).pdf" style="text-decoration:none;"> Top 100 Geography GK Questions and Answers  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(58).pdf" style="text-decoration:none;">Top 100 General Knowledge Questions Answers   </a></b></li>
  
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(59).pdf" style="text-decoration:none;"> Top 100 History GK Questions and Answers  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(60).pdf" style="text-decoration:none;">Top 100 Physics GK Questions and Answers    </a></b></li>
  
  
  
