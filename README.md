@@ -274,7 +274,12 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(36).pdf" style="text-decoration:none;">Study Material For RRB Exam - General Knowledge</a></b></li>                                
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(37).pdf" style="text-decoration:none;">Magical Book On Quicker Maths </a></b></li>                                  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(38).pdf" style="text-decoration:none;">IBPS Clerk Exam Objective and Q & A </a></b></li>                                    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(38).pdf" style="text-decoration:none;">IBPS Clerk Exam Objective and Q&A </a></b></li>  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(39).pdf" style="text-decoration:none;">High Speed System of Basic Arithmetic</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(42).pdf" style="text-decoration:none;"> General Awareness for IBPS, SBI, RBI, LIC and other competitive exams   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(43).pdf" style="text-decoration:none;">General Science for Competitive Exams </a></b></li>   
  
  </ul>
  
