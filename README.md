@@ -293,9 +293,12 @@ Entrance Exams </a></b></li>
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(51).pdf" style="text-decoration:none;"> General Awareness Notes - Applied and Basic Physics - Part I  </a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(52).rar" style="text-decoration:none;">Objective English For Competitive Examinations </a></b></li>    
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(53).rar" style="text-decoration:none;"> Quick General Knowledge  </a></b></li>
  
- 
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(54).pdf" style="text-decoration:none;"> Basic General Knowledge  </a></b></li>
  
  
  
