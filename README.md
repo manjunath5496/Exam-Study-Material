@@ -288,7 +288,10 @@ Entrance Exams </a></b></li>
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(47).pdf" style="text-decoration:none;"> 1500+ MCQ on Indian History   </a></b></li>                                  
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(49).pdf" style="text-decoration:none;"> 101 shortcuts in Quantitative Aptitude   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(50).pdf" style="text-decoration:none;">Indian Freedom Struggle Timeline </a></b></li>    
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(51).pdf" style="text-decoration:none;"> General Awareness Notes - Applied and Basic Physics - Part I  </a></b></li>
  
  
  
