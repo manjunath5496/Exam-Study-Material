@@ -235,47 +235,46 @@ Entrance Exams </a></b></li>
 
 <ul>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(2).pdf" style="text-decoration:none;">Smithsonian Science: Science as you've never seen it before</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(3).pdf" style="text-decoration:none;">General Knowledge Book</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(4).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(5).pdf" style="text-decoration:none;">The General Science Compendium</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(6).pdf" style="text-decoration:none;">General Knowledge 2018: India And World </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(7).pdf" style="text-decoration:none;">Caravan General Knowledge MCQs</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(8).pdf" style="text-decoration:none;">Agriculture General Knowledge</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(9).pdf" style="text-decoration:none;"> General Knowledge 2020</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(10).pdf" style="text-decoration:none;">Computer Knowledge for SBI/ IBPS Clerk/ PO/ RRB/ RBI/ SSC/ Insurance Exams</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(11).pdf" style="text-decoration:none;">General Knowledge and Teaching Aptitude</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(12).pdf" style="text-decoration:none;">Basic General Knowledge Book</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(13).pdf" style="text-decoration:none;"> General Knowledge Today</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(14).pdf" style="text-decoration:none;"> General Knowledge Objective Quiz </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(15).pdf" style="text-decoration:none;">General Knowledge Bank  </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(16).pdf" style="text-decoration:none;">CliffsNotes: FTCE General Knowledge Test</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(17).pdf" style="text-decoration:none;">Student's Encyclopedia of General Knowledge   </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(18).pdf" style="text-decoration:none;">A Guide to descriptive writing  </a></b></li>                                  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(19).pdf" style="text-decoration:none;">General Knowledge Question and Answers</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(20).pdf" style="text-decoration:none;">TestFunda General Knowledge Quizzes </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(21).pdf" style="text-decoration:none;">The General Knowledge Quiz Book</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(22).pdf" style="text-decoration:none;">Last 6 Months Current Affairs for SSC & Railways 2018 Exam</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(23).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book)  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(2).pdf" style="text-decoration:none;">Smithsonian Science: Science as you've never seen it before</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(3).pdf" style="text-decoration:none;">General Knowledge Book</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(4).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(5).pdf" style="text-decoration:none;">The General Science Compendium</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(6).pdf" style="text-decoration:none;">General Knowledge 2018: India And World </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(7).pdf" style="text-decoration:none;">Caravan General Knowledge MCQs</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(8).pdf" style="text-decoration:none;">Agriculture General Knowledge</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(9).pdf" style="text-decoration:none;"> General Knowledge 2020</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(10).pdf" style="text-decoration:none;">Computer Knowledge for SBI/ IBPS Clerk/ PO/ RRB/ RBI/ SSC/ Insurance Exams</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(11).pdf" style="text-decoration:none;">General Knowledge and Teaching Aptitude</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(12).pdf" style="text-decoration:none;">Basic General Knowledge Book</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(13).pdf" style="text-decoration:none;"> General Knowledge Today</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(14).pdf" style="text-decoration:none;"> General Knowledge Objective Quiz </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(15).pdf" style="text-decoration:none;">General Knowledge Bank  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(16).pdf" style="text-decoration:none;">CliffsNotes: FTCE General Knowledge Test</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(17).pdf" style="text-decoration:none;">Student's Encyclopedia of General Knowledge   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(18).pdf" style="text-decoration:none;">A Guide to descriptive writing  </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(19).pdf" style="text-decoration:none;">General Knowledge Question and Answers</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(20).pdf" style="text-decoration:none;">TestFunda General Knowledge Quizzes </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(21).pdf" style="text-decoration:none;">The General Knowledge Quiz Book</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(22).pdf" style="text-decoration:none;">Last 6 Months Current Affairs for SSC & Railways 2018 Exam</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(23).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book)  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(24).pdf" style="text-decoration:none;">1700+ MCQ on Indian Polity </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(24).pdf" style="text-decoration:none;">1700+ MCQ on Indian Polity </a></b></li> 
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(25).pdf" style="text-decoration:none;">General knowledge 2009</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(26).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book Vol.2)</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(27).pdf" style="text-decoration:none;">10,000 quiz questions and answers </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(28).pdf" style="text-decoration:none;">1250+ MCQ on Indian Geography  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(29).pdf" style="text-decoration:none;">  Government Schemes: January to October 2018 </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(30).pdf" style="text-decoration:none;">Increase Your General Knowledge: Questions and answers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(25).pdf" style="text-decoration:none;">General knowledge 2009</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(26).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book Vol.2)</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(27).pdf" style="text-decoration:none;">10,000 quiz questions and answers </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(28).pdf" style="text-decoration:none;">1250+ MCQ on Indian Geography  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(29).pdf" style="text-decoration:none;">  Government Schemes: January to October 2018 </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(30).pdf" style="text-decoration:none;">Increase Your General Knowledge: Questions and answers</a></b></li>
                                         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(31).pdf" style="text-decoration:none;">GK Consolidated - All in One PDF </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(32).pdf" style="text-decoration:none;">IELTS Writing Compact Graph Review </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(33).pdf" style="text-decoration:none;"> Improve Your Skills: Listening and Speaking for IELTS </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(34).pdf" style="text-decoration:none;">Kaplan's IELTS Premier with 8 Practice Tests  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(35).pdf" style="text-decoration:none;">IELTS Superior Speaking</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(31).pdf" style="text-decoration:none;">GK Consolidated - All in One PDF </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(32).pdf" style="text-decoration:none;">Indian National Movement: Multiple Choice Practice Questions and Answers </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(33).pdf" style="text-decoration:none;"> Physics: Multiple Choice Practice Questions and Answers </a></b></li>
+                           
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(36).pdf" style="text-decoration:none;">Study Material For RRB Exam - General Knowledge</a></b></li>                                
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(18).pdf" style="text-decoration:none;">New Insight into IELTS </a></b></li>                                  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(24).pdf" style="text-decoration:none;">IELTS Trainer: Six Practice Tests with Answers </a></b></li>                                    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(37).pdf" style="text-decoration:none;">Magical Book On Quicker Maths </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(38).pdf" style="text-decoration:none;">IBPS Clerk Exam Objective and Q & A </a></b></li>                                    
  
  </ul>
- 
  
