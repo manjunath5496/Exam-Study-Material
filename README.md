@@ -248,9 +248,9 @@ Entrance Exams </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(12).pdf" style="text-decoration:none;">Basic General Knowledge Book</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(13).pdf" style="text-decoration:none;"> General Knowledge Today</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(14).pdf" style="text-decoration:none;"> General Knowledge Objective Quiz </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(15).pdf" style="text-decoration:none;">Grammar for IELTS </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(16).pdf" style="text-decoration:none;">IELTS Reading Practice Tests</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(17).pdf" style="text-decoration:none;">IELTS Spirit: Study smart, not hard   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(15).pdf" style="text-decoration:none;">General Knowledge Bank  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(16).pdf" style="text-decoration:none;">CliffsNotes: FTCE General Knowledge Test</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(17).pdf" style="text-decoration:none;">Student's Encyclopedia of General Knowledge   </a></b></li>
                                        
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(19).pdf" style="text-decoration:none;">Study Guide to the 404 Essential Tests for IELTS</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/el(20).pdf" style="text-decoration:none;">IELTS Reading Recent Actual Tests (2016 – 2017) With Answers</a></b></li> 
