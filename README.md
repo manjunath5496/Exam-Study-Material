@@ -328,12 +328,12 @@ Entrance Exams </a></b></li>
 
 
 <ul>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(2).pdf" style="text-decoration:none;">Smithsonian Science: Science as you've never seen it before</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(3).pdf" style="text-decoration:none;">General Knowledge Book</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(4).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(5).pdf" style="text-decoration:none;">The General Science Compendium</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(6).pdf" style="text-decoration:none;">General Knowledge 2018: India And World </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(1).pdf" style="text-decoration:none;">The Complete Guide to the TOEFL Test</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(2).pdf" style="text-decoration:none;">Check your English Vocabulary for TOEFL</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(3).pdf" style="text-decoration:none;">How to Prepare for the TOEFL Essay </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(4).pdf" style="text-decoration:none;">YDS Practice Tests</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(5).pdf" style="text-decoration:none;">Answers to All TOEFL Essay Questions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(6).pdf" style="text-decoration:none;">Building Grammar Skills for TOEFL IBT </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(7).pdf" style="text-decoration:none;">Caravan General Knowledge MCQs</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(8).pdf" style="text-decoration:none;">Agriculture General Knowledge</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(9).pdf" style="text-decoration:none;"> General Knowledge 2020</a></b></li>                              
