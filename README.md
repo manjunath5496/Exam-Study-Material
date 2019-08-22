@@ -1,4 +1,4 @@
-<h2> IIT JEE   </h2>
+<h2> IIT | JEE   </h2>
 
 <p> <strong> Physics:  </strong></p>
 
@@ -373,7 +373,7 @@ Entrance Exams </a></b></li>
  </ul>
  
  </br>
- <h2> IIT JEE   </h2>
+ <h2> NEET | JRF | NET:   </h2>
 
 <p> <strong> Physics:  </strong></p>
 
