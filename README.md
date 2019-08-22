@@ -432,6 +432,15 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(13).pdf" style="text-decoration:none;">AIPMT - Chemistry</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(25).pdf" style="text-decoration:none;">Chemical Sciences - CSIR- NET & GATE Topicwise Complete Solution</a></b></li> 
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(35).pdf" style="text-decoration:none;">NCERT Chemistry 11th Standard Notes (Part-1)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(36).pdf" style="text-decoration:none;">NCERT Chemistry 11th Standard Notes (Part-2)</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(37).pdf" style="text-decoration:none;">NCERT Chemistry 12th Standard Notes (Part-1)</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(38).pdf" style="text-decoration:none;">NCERT Chemistry 12th Standard Notes (Part-2)</a></b></li>  
+  
+  
+  
+  
+  
   </ul>
   
   </br>
