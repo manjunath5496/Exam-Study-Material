@@ -449,7 +449,9 @@ Entrance Exams </a></b></li>
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(24).pdf" style="text-decoration:none;">Objective NCERT GearUp Biology  </a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(33).rar" style="text-decoration:none;">NCERT Biology 11th Standard Notes </a></b></li>  
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(34).pdf" style="text-decoration:none;">NCERT Biology 12th Standard Notes  </a></b></li> 
   
   
   </ul> 
