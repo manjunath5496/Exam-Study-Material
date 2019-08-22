@@ -388,7 +388,8 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(5).pdf" style="text-decoration:none;">Physics MCQS Book (Fully Solved)</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(6).pdf" style="text-decoration:none;">Question Bank - Physics</a></b></li>   
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(7).pdf" style="text-decoration:none;">Physics DPP Booklet</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(8).pdf" style="text-decoration:none;">Practice Problem Sheets For NEET/AIIMS </a></b></li>    
   
   
   </ul>
