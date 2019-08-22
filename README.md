@@ -405,3 +405,19 @@ Entrance Exams </a></b></li>
   
   </ul>
  
+ </br>
+ 
+ <p> <strong> Chemistry:  </strong></p>
+
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(11).pdf" style="text-decoration:none;">PGMEE Test Series for NEET & AIIMS: Pharmacology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(12).pdf" style="text-decoration:none;">CBSE Champion Chapterwise-Topicwise - Chemistry</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(13).pdf" style="text-decoration:none;">AIPMT - Chemistry</a></b></li>  
+  </ul>
+  
+  
+  
+  
+  
+  
