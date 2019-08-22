@@ -320,3 +320,102 @@ Entrance Exams </a></b></li>
  
  </ul>
  
+ 
+ 
+</br>
+
+<h2> TOEFL    </h2>
+
+
+<ul>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(2).pdf" style="text-decoration:none;">Smithsonian Science: Science as you've never seen it before</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(3).pdf" style="text-decoration:none;">General Knowledge Book</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(4).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(5).pdf" style="text-decoration:none;">The General Science Compendium</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(6).pdf" style="text-decoration:none;">General Knowledge 2018: India And World </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(7).pdf" style="text-decoration:none;">Caravan General Knowledge MCQs</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(8).pdf" style="text-decoration:none;">Agriculture General Knowledge</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(9).pdf" style="text-decoration:none;"> General Knowledge 2020</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(10).pdf" style="text-decoration:none;">Computer Knowledge for SBI/ IBPS Clerk/ PO/ RRB/ RBI/ SSC/ Insurance Exams</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(11).pdf" style="text-decoration:none;">General Knowledge and Teaching Aptitude</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(12).pdf" style="text-decoration:none;">Basic General Knowledge Book</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(13).pdf" style="text-decoration:none;"> General Knowledge Today</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(14).pdf" style="text-decoration:none;"> General Knowledge Objective Quiz </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(15).pdf" style="text-decoration:none;">General Knowledge Bank  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(16).pdf" style="text-decoration:none;">CliffsNotes: FTCE General Knowledge Test</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(17).pdf" style="text-decoration:none;">Student's Encyclopedia of General Knowledge   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(18).pdf" style="text-decoration:none;">A Guide to descriptive writing  </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(19).pdf" style="text-decoration:none;">General Knowledge Question and Answers</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(20).pdf" style="text-decoration:none;">TestFunda General Knowledge Quizzes </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(21).pdf" style="text-decoration:none;">The General Knowledge Quiz Book</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(22).pdf" style="text-decoration:none;">Last 6 Months Current Affairs for SSC & Railways 2018 Exam</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(23).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book)  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(24).pdf" style="text-decoration:none;">1700+ MCQ on Indian Polity </a></b></li> 
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(25).pdf" style="text-decoration:none;">General knowledge 2009</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(26).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book Vol.2)</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(27).pdf" style="text-decoration:none;">10,000 quiz questions and answers </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(28).pdf" style="text-decoration:none;">1250+ MCQ on Indian Geography  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(29).pdf" style="text-decoration:none;">  Government Schemes: January to October 2018 </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(30).pdf" style="text-decoration:none;">Increase Your General Knowledge: Questions and answers</a></b></li>
+                                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(31).pdf" style="text-decoration:none;">GK Consolidated - All in One PDF </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(32).pdf" style="text-decoration:none;">Indian National Movement: Multiple Choice Practice Questions and Answers </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(33).pdf" style="text-decoration:none;"> Physics: Multiple Choice Practice Questions and Answers </a></b></li>
+                           
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(36).pdf" style="text-decoration:none;">Study Material For RRB Exam - General Knowledge</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(37).pdf" style="text-decoration:none;">Magical Book On Quicker Maths </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(38).pdf" style="text-decoration:none;">IBPS Clerk Exam Objective and Q&A </a></b></li>  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(39).pdf" style="text-decoration:none;">High Speed System of Basic Arithmetic</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(42).pdf" style="text-decoration:none;"> General Awareness for IBPS, SBI, RBI, LIC and other competitive exams   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(43).pdf" style="text-decoration:none;">General Science for Competitive Exams </a></b></li>   
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(44).pdf" style="text-decoration:none;">SSC-GCL Cracker For General Studies</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(45).pdf" style="text-decoration:none;"> GENERAL ENGLISH for Competitive Exams   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(46).pdf" style="text-decoration:none;">Rakesh Yadav Sir's 7300+ Quick General Studies </a></b></li>    
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(47).pdf" style="text-decoration:none;"> 1500+ MCQ on Indian History   </a></b></li>                                  
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(49).pdf" style="text-decoration:none;"> 101 shortcuts in Quantitative Aptitude   </a></b></li>                                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(50).pdf" style="text-decoration:none;">Indian Freedom Struggle Timeline </a></b></li>    
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(51).pdf" style="text-decoration:none;"> General Awareness Notes - Applied and Basic Physics - Part I  </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(52).rar" style="text-decoration:none;">Objective English For Competitive Examinations </a></b></li>    
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(53).rar" style="text-decoration:none;"> Quick General Knowledge  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(1).pdf" style="text-decoration:none;"> The Polity Compendium  </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(34).pdf" style="text-decoration:none;"> 21 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2015) </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(54).pdf" style="text-decoration:none;"> Basic General Knowledge  </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(35).pdf" style="text-decoration:none;"> Top 100 Sports GK Questions and Answers   </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(40).pdf" style="text-decoration:none;">Top 100 Biology GK Questions and Answers  </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(41).pdf" style="text-decoration:none;"> Top 100 Chemistry GK Questions and Answers </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(48).pdf" style="text-decoration:none;">Top 100 Indian Polity GK Questions Answers   </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(55).pdf" style="text-decoration:none;">  Top 100 Computer GK Questions and Answers   </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(56).pdf" style="text-decoration:none;">Top 100 Indian Economy Questions and Answers  </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(57).pdf" style="text-decoration:none;"> Top 100 Geography GK Questions and Answers  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(58).pdf" style="text-decoration:none;">Top 100 General Knowledge Questions Answers   </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(59).pdf" style="text-decoration:none;"> Top 100 History GK Questions and Answers  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(60).pdf" style="text-decoration:none;">Top 100 Physics GK Questions and Answers    </a></b></li>
+ 
+ 
+ 
+ 
+ </ul>
+ 
+ 
+ 
+ 
+ 
+ 
