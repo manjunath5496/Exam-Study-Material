@@ -416,7 +416,25 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(13).pdf" style="text-decoration:none;">AIPMT - Chemistry</a></b></li>  
   </ul>
   
+  </br>
+ 
+ <p> <strong> Biology:  </strong></p>
+
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(14).pdf" style="text-decoration:none;">NEET-AIPMT Chapterwise Solutions - Biology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(15).pdf" style="text-decoration:none;">Biology Class 10 (CBSE)</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(16).pdf" style="text-decoration:none;">Biology Class 9 (CBSE)</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(17).pdf" style="text-decoration:none;">CSIR NET Life Sciences</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(18).pdf" style="text-decoration:none;">Handbook on General Agriculture (ICAR – JRF and Other Competitive Examinations)</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(19).pdf" style="text-decoration:none;">Life Sciences: Fundamentals and Practice </a></b></li>  
   
+  
+  
+  
+  
+  
+  </ul> 
   
   
   
