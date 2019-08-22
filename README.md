@@ -382,9 +382,11 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(1).pdf" style="text-decoration:none;">CSIR-UGC NET/JRF/SET Physical Sciences With solved paper Upkar LATEST EDITION</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(2).pdf" style="text-decoration:none;">NCERT Exemplar Problems-Solutions PHYSICS class 11th</a></b></li> 
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(3).pdf" style="text-decoration:none;">Magnetic effects of electric current and magnetism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(4).rar" style="text-decoration:none;">NCERT Exercises + Exemplar Solutions Physics - Class 12</a></b></li> 
   
-  
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(5).pdf" style="text-decoration:none;">Physics MCQS Book (Fully Solved)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(6).pdf" style="text-decoration:none;">Question Bank - Physics</a></b></li>   
   
   
   
