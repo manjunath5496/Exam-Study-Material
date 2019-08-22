@@ -360,7 +360,14 @@ Entrance Exams </a></b></li>
                                         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(31).pdf" style="text-decoration:none;">Cambridge Preparation for the TOEFL Test  </a></b></li>
                                 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(9).pdf" style="text-decoration:none;"> 500 Words, Phrases, Idioms for TOEFL  </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(13).pdf" style="text-decoration:none;">Essential Words for the TOEFL</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(19).pdf" style="text-decoration:none;">Memorizing 150 words a day </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(24).pdf" style="text-decoration:none;">The TOEFL Campus TOEFL e-Book  </a></b></li>
+                          
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(29).pdf" style="text-decoration:none;">327 TOEFL Words You Need to Know</a></b></li>
+                                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(32).pdf" style="text-decoration:none;">TOEFL Grammar Review  </a></b></li> 
  
  
  </ul>
