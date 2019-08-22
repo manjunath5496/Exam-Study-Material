@@ -399,8 +399,8 @@ Entrance Exams </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(7).pdf" style="text-decoration:none;">Physics DPP Booklet</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(8).pdf" style="text-decoration:none;">Practice Problem Sheets For NEET/AIIMS </a></b></li>    
-  
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(27).rar" style="text-decoration:none;">ALLEN Physics Notes - I  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(28).rar" style="text-decoration:none;">ALLEN Physics Notes - II  </a></b></li>  
   </ul>
  
  </br>
