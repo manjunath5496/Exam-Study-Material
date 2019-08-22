@@ -422,7 +422,9 @@ Entrance Exams </a></b></li>
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(11).pdf" style="text-decoration:none;">PGMEE Test Series for NEET & AIIMS: Pharmacology</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(12).pdf" style="text-decoration:none;">CBSE Champion Chapterwise-Topicwise - Chemistry</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(13).pdf" style="text-decoration:none;">AIPMT - Chemistry</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(13).pdf" style="text-decoration:none;">AIPMT - Chemistry</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(25).pdf" style="text-decoration:none;">Chemical Sciences - CSIR- NET & GATE Topicwise Complete Solution</a></b></li> 
+  
   </ul>
   
   </br>
@@ -438,7 +440,7 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(18).pdf" style="text-decoration:none;">Handbook on General Agriculture (ICAR – JRF and Other Competitive Examinations)</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(19).pdf" style="text-decoration:none;">Life Sciences: Fundamentals and Practice </a></b></li>  
   
-  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(24).pdf" style="text-decoration:none;">Objective NCERT GearUp Biology  </a></b></li>   
   
   
   
