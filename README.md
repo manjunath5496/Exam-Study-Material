@@ -347,20 +347,14 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(18).pdf" style="text-decoration:none;">TOEFL Listening Practice Texts and Questions  </a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(20).pdf" style="text-decoration:none;">Teaching TOEFL Preparation </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(21).pdf" style="text-decoration:none;">Ace the TOEFL Essay</a></b></li>
- 
- 
- 
- 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(22).pdf" style="text-decoration:none;">Last 6 Months Current Affairs for SSC & Railways 2018 Exam</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(23).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book)  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(24).pdf" style="text-decoration:none;">1700+ MCQ on Indian Polity </a></b></li> 
-                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(25).pdf" style="text-decoration:none;">General knowledge 2009</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(26).pdf" style="text-decoration:none;">The Fun Knowledge Encyclopedia: The Crazy Stories Behind the World's Most Interesting Facts (Trivia Bill's General Knowledge Book Vol.2)</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(27).pdf" style="text-decoration:none;">10,000 quiz questions and answers </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(28).pdf" style="text-decoration:none;">1250+ MCQ on Indian Geography  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(21).pdf" style="text-decoration:none;">Ace the TOEFL Essay</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(22).pdf" style="text-decoration:none;">TOEFL Reading Practice</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(23).pdf" style="text-decoration:none;">1800 TOEFL essential vocabulary  </a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(25).pdf" style="text-decoration:none;">TOEFL Vocabulary </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(26).pdf" style="text-decoration:none;">An Essay Collection For TOEFL</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(27).pdf" style="text-decoration:none;">Perfect Phrases for the TOEFL Speaking and Writing Sections </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(28).pdf" style="text-decoration:none;">TOEFL Exam Success in Only 6 Steps  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(29).pdf" style="text-decoration:none;">  Government Schemes: January to October 2018 </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(30).pdf" style="text-decoration:none;">Increase Your General Knowledge: Questions and answers</a></b></li>
                                         
