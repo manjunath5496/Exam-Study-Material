@@ -315,7 +315,8 @@ Entrance Exams </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(59).pdf" style="text-decoration:none;"> Top 100 History GK Questions and Answers  </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(60).pdf" style="text-decoration:none;">Top 100 Physics GK Questions and Answers    </a></b></li>
  
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(20).pdf" style="text-decoration:none;"> AIIMS General Knowledge with Logical Thinking  </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(21).pdf" style="text-decoration:none;">How to Pass Your Exams: Proven Techniques for Any Exam That Will Guarantee Success    </a></b></li>
  
  
  </ul>
