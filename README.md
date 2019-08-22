@@ -400,7 +400,14 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(7).pdf" style="text-decoration:none;">Physics DPP Booklet</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(8).pdf" style="text-decoration:none;">Practice Problem Sheets For NEET/AIIMS </a></b></li>    
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(27).rar" style="text-decoration:none;">ALLEN Physics Notes - I  </a></b></li> 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(28).rar" style="text-decoration:none;">ALLEN Physics Notes - II  </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(28).rar" style="text-decoration:none;">ALLEN Physics Notes - II  </a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(29).pdf" style="text-decoration:none;">NCERT Physics 12th Standard Notes (Part-1)  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(30).pdf" style="text-decoration:none;">NCERT Physics 12th Standard Notes (Part-2) </a></b></li>    
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(31).pdf" style="text-decoration:none;">NCERT Physics 11th Standard Notes (Part-1)  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(32).pdf" style="text-decoration:none;">NCERT Physics 11th Standard Notes (Part-2) </a></b></li>  
+   
   </ul>
  
  </br>
