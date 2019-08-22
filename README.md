@@ -394,5 +394,14 @@ Entrance Exams </a></b></li>
   
   </ul>
  
+ </br>
  
+ <p> <strong> Mathematics:  </strong></p>
+
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(9).pdf" style="text-decoration:none;">The Everything Kids' Math Puzzles Book: Brain Teasers, Games, and Activities for Hours of Fun </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(10).pdf" style="text-decoration:none;">Speed Math for Kids: The Fast, Fun Way To Do Basic Calculations</a></b></li> 
+  
+  </ul>
  
