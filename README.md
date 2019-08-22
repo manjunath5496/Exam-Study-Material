@@ -373,13 +373,22 @@ Entrance Exams </a></b></li>
  </ul>
  
  </br>
- <h2> NEET | JRF | NET:   </h2>
+ <h2> NEET | JRF | CSIR-UGC NET   </h2>
 
 <p> <strong> Physics:  </strong></p>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(1).rar" style="text-decoration:none;">40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs (2002-2017) JEE Main Topic-wise Solved Paper Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(1).pdf" style="text-decoration:none;">CSIR-UGC NET/JRF/SET Physical Sciences With solved paper Upkar LATEST EDITION</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(2).pdf" style="text-decoration:none;">NCERT Exemplar Problems-Solutions PHYSICS class 11th</a></b></li> 
+  
+  
+  
+  
+  
+  
+  
+  
   </ul>
  
  
