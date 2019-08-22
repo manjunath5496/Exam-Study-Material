@@ -375,7 +375,15 @@ Entrance Exams </a></b></li>
  
  </br>
  <h2> NEET | JRF | CSIR-UGC NET   </h2>
-
+ 
+ 
+ <ul>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(22).pdf" style="text-decoration:none;">Paper - I (General Paper on Teaching & Research Aptitude)</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/nt(23).pdf" style="text-decoration:none;">What is NEET? </a></b></li> 
+ </ul>
+ 
+ </br>
+ 
 <p> <strong> Physics:  </strong></p>
 
 
