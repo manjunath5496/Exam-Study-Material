@@ -328,37 +328,37 @@ Entrance Exams </a></b></li>
 
 
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(1).pdf" style="text-decoration:none;">The Complete Guide to the TOEFL Test</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(2).pdf" style="text-decoration:none;">Check your English Vocabulary for TOEFL</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(3).pdf" style="text-decoration:none;">How to Prepare for the TOEFL Essay </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(4).pdf" style="text-decoration:none;">YDS Practice Tests</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(5).pdf" style="text-decoration:none;">Answers to All TOEFL Essay Questions</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(6).pdf" style="text-decoration:none;">Building Grammar Skills for TOEFL IBT </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(7).pdf" style="text-decoration:none;">Top the TOEFL: Unlocking the Secrets of Ivy League Students</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(8).pdf" style="text-decoration:none;">Basic Skills for the TOEFL iBT</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(10).pdf" style="text-decoration:none;">Speaking and Writing Strategies for the TOEFL iBT</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(11).pdf" style="text-decoration:none;">TOEFL Reading Practice with answers</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(12).pdf" style="text-decoration:none;">327 TOEFL Words You Need to Know</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(1).pdf" style="text-decoration:none;">The Complete Guide to the TOEFL Test</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(2).pdf" style="text-decoration:none;">Check your English Vocabulary for TOEFL</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(3).pdf" style="text-decoration:none;">How to Prepare for the TOEFL Essay </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(4).pdf" style="text-decoration:none;">YDS Practice Tests</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(5).pdf" style="text-decoration:none;">Answers to All TOEFL Essay Questions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(6).pdf" style="text-decoration:none;">Building Grammar Skills for TOEFL IBT </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(7).pdf" style="text-decoration:none;">Top the TOEFL: Unlocking the Secrets of Ivy League Students</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(8).pdf" style="text-decoration:none;">Basic Skills for the TOEFL iBT</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(10).pdf" style="text-decoration:none;">Speaking and Writing Strategies for the TOEFL iBT</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(11).pdf" style="text-decoration:none;">TOEFL Reading Practice with answers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(12).pdf" style="text-decoration:none;">327 TOEFL Words You Need to Know</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(14).pdf" style="text-decoration:none;"> Longman Preparation Course for the TOEFL iBT Test  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(15).pdf" style="text-decoration:none;">400 Must-Have Words for the TOEFL  </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(16).pdf" style="text-decoration:none;">Kaplan TOEFL Idioms Quiz Book</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(17).pdf" style="text-decoration:none;">Master TOEFL Writing Skills   </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(18).pdf" style="text-decoration:none;">TOEFL Listening Practice Texts and Questions  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(14).pdf" style="text-decoration:none;"> Longman Preparation Course for the TOEFL iBT Test  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(15).pdf" style="text-decoration:none;">400 Must-Have Words for the TOEFL  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(16).pdf" style="text-decoration:none;">Kaplan TOEFL Idioms Quiz Book</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(17).pdf" style="text-decoration:none;">Master TOEFL Writing Skills   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(18).pdf" style="text-decoration:none;">TOEFL Listening Practice Texts and Questions  </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(20).pdf" style="text-decoration:none;">Teaching TOEFL Preparation </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(21).pdf" style="text-decoration:none;">Ace the TOEFL Essay</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(22).pdf" style="text-decoration:none;">TOEFL Reading Practice</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(23).pdf" style="text-decoration:none;">1800 TOEFL essential vocabulary  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(20).pdf" style="text-decoration:none;">Teaching TOEFL Preparation </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(21).pdf" style="text-decoration:none;">Ace the TOEFL Essay</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(22).pdf" style="text-decoration:none;">TOEFL Reading Practice</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(23).pdf" style="text-decoration:none;">1800 TOEFL essential vocabulary  </a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(25).pdf" style="text-decoration:none;">TOEFL Vocabulary </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(26).pdf" style="text-decoration:none;">An Essay Collection For TOEFL</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(27).pdf" style="text-decoration:none;">Perfect Phrases for the TOEFL Speaking and Writing Sections </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(28).pdf" style="text-decoration:none;">TOEFL Exam Success in Only 6 Steps  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(29).pdf" style="text-decoration:none;">  Government Schemes: January to October 2018 </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(30).pdf" style="text-decoration:none;">Increase Your General Knowledge: Questions and answers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(25).pdf" style="text-decoration:none;">TOEFL Vocabulary </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(26).pdf" style="text-decoration:none;">An Essay Collection For TOEFL</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(27).pdf" style="text-decoration:none;">Perfect Phrases for the TOEFL Speaking and Writing Sections </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(28).pdf" style="text-decoration:none;">TOEFL Exam Success in Only 6 Steps  </a></b></li>
+                          
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(30).rar" style="text-decoration:none;">English for Everyone: English Grammar Guide</a></b></li>
                                         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/wk(31).pdf" style="text-decoration:none;">GK Consolidated - All in One PDF </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/tl(31).pdf" style="text-decoration:none;">Cambridge Preparation for the TOEFL Test  </a></b></li>
                                 
  
  
