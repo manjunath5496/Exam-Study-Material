@@ -471,15 +471,15 @@ Entrance Exams </a></b></li>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(1).pdf style="text-decoration:none;">Important Information to Students on UPSC Competitions and Conventional Questions of the Past Years</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(2).pdf style="text-decoration:none;">Current Affairs 2017 MCQ Questions </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(3).pdf style="text-decoration:none;">A Brief History of Modern India</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(4).pdf style="text-decoration:none;">A Beginner's guide to UPSC Preparation  </a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(1).pdf" style="text-decoration:none;">Important Information to Students on UPSC Competitions and Conventional Questions of the Past Years</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(2).pdf" style="text-decoration:none;">Current Affairs 2017 MCQ Questions </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(3).pdf" style="text-decoration:none;">A Brief History of Modern India</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(4).pdf" style="text-decoration:none;">A Beginner's guide to UPSC Preparation  </a></b></li>   
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(5).pdf style="text-decoration:none;">Biology for UPSC IAS Prelims</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(6).pdf style="text-decoration:none;">Current Affairs Year Book 2018 for UPSC & PCS Exam </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(7).pdf style="text-decoration:none;">101 Speed Tests with 10 Practice Sets </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(8).pdf style="text-decoration:none;">Textbook for Environmental Studies  </a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(5).pdf" style="text-decoration:none;">Biology for UPSC IAS Prelims</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(6).pdf" style="text-decoration:none;">Current Affairs Year Book 2018 for UPSC & PCS Exam </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(7).pdf" style="text-decoration:none;">101 Speed Tests with 10 Practice Sets </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(8).pdf" style="text-decoration:none;">Textbook for Environmental Studies  </a></b></li>   
   
   
   
