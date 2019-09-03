@@ -466,5 +466,12 @@ Entrance Exams </a></b></li>
   </ul> 
   
   
-  
+  <h2> IIT | JEE   </h2>
+
+<p> <strong> Physics:  </strong></p>
+
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(1).rar" style="text-decoration:none;">40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs (2002-2017) JEE Main Topic-wise Solved Paper Physics</a></b></li>
+  </ul>
   
