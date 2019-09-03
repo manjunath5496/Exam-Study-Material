@@ -467,12 +467,24 @@ Entrance Exams </a></b></li>
   
  </br>
  
-  <h2> IIT | JEE   </h2>
-
-<p> <strong> Physics:  </strong></p>
+  <h2>UPSC </h2>
 
 
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ij(1).rar" style="text-decoration:none;">40 Years (1978-2017) JEE Advanced (IIT-JEE) + 16 yrs (2002-2017) JEE Main Topic-wise Solved Paper Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(1).pdf style="text-decoration:none;">Important Information to Students on UPSC Competitions and Conventional Questions of the Past Years</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(2).pdf style="text-decoration:none;">Current Affairs 2017 MCQ Questions </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(3).pdf style="text-decoration:none;">A Brief History of Modern India</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(4).pdf style="text-decoration:none;">A Beginner's guide to UPSC Preparation  </a></b></li>   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(5).pdf style="text-decoration:none;">Biology for UPSC IAS Prelims</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(6).pdf style="text-decoration:none;">Current Affairs Year Book 2018 for UPSC & PCS Exam </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(7).pdf style="text-decoration:none;">101 Speed Tests with 10 Practice Sets </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(8).pdf style="text-decoration:none;">Textbook for Environmental Studies  </a></b></li>   
+  
+  
+  
+  
+  
+  
   </ul>
   
