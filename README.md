@@ -481,8 +481,12 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(7).pdf" style="text-decoration:none;">101 Speed Tests with 10 Practice Sets </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(8).pdf" style="text-decoration:none;">Textbook for Environmental Studies  </a></b></li>   
   
-  
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(9).pdf" style="text-decoration:none;">Social Science (History-Civics-Geography)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(10).pdf" style="text-decoration:none;">General Studies Notes for IAS </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(11).pdf" style="text-decoration:none;">Geomorphology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(12).pdf" style="text-decoration:none;">Solved Paper of UPSC Civil Services Preliminary Exam 2001   </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(13).pdf" style="text-decoration:none;">The Polity Compendium </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(14).pdf" style="text-decoration:none;">Understanding Ethics: An Introduction to Moral Theory   </a></b></li>  
   
   
   
