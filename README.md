@@ -488,7 +488,9 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(13).pdf" style="text-decoration:none;">The Polity Compendium </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(14).pdf" style="text-decoration:none;">Understanding Ethics: An Introduction to Moral Theory   </a></b></li>  
   
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(15).pdf" style="text-decoration:none;">Public Administration Paperset   </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(16).pdf" style="text-decoration:none;">Strength of Materials and Structures </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(17).pdf" style="text-decoration:none;">UPSC Study Material - IAS Study Notes   </a></b></li>  
   
   </ul>
   
