@@ -593,8 +593,12 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(87).pdf" style="text-decoration:none;"> Module 5: Environment, Biodiversity And Climate Change - Environmental Related Issues And Concepts-2   </a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(88).pdf" style="text-decoration:none;"> Module 6: Environment, Biodiversity And Climate Change - Environmental Related Issues And Concepts-3   </a></b></li> 
    
-   
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(89).pdf" style="text-decoration:none;"> Module 1: Everyday Science And Technology - Select Concepts And Applications In Physics   </a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(90).pdf" style="text-decoration:none;"> Module 2: Everyday Science And Technology - Select Concepts And Applications In Chemistry   </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(91).pdf" style="text-decoration:none;"> Module 3: Everyday Science And Technology - Select Notes In Everyday Biology  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(92).pdf" style="text-decoration:none;"> Module 4: Everyday Science And Technology - Basic Computer Knowledge  </a></b></li>     
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(93).pdf" style="text-decoration:none;"> Module 4: Everyday Science And Technology - Basics of Telecommunication  </a></b></li>  
    
    
    
