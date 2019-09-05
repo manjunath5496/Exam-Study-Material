@@ -570,7 +570,11 @@ Entrance Exams </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(76).pdf" style="text-decoration:none;"> Module 3: Salient features of Indian Culture - Indian Sculpture And Folk Paintings   </a></b></li>  
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(77).pdf" style="text-decoration:none;"> Module 4: Salient features of Indian Culture - Ancient Indian Architecture   </a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(78).pdf" style="text-decoration:none;"> Module 5: Salient features of Indian Culture - Medieval And Modern Indian Architecture   </a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(79).pdf" style="text-decoration:none;"> Module 6: Salient features of Indian Culture - Music, dance, drama and folk music   </a></b></li>    
   
   
   </ul>
