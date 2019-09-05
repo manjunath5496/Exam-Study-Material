@@ -564,11 +564,11 @@ Entrance Exams </a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(73).rar" style="text-decoration:none;">IAS Test Series - Comprehensive General Studies   </a></b></li>   
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(74).pdf" style="text-decoration:none;"> Module 1: Salient features of Indian Culture - Ancient and Medieval Indian Paintings   </a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(75).pdf" style="text-decoration:none;"> Module 2: Salient features of Indian Culture - Modern Indian Paintings   </a></b></li>  
   
-  
-  
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(76).pdf" style="text-decoration:none;"> Module 3: Salient features of Indian Culture - Indian Sculpture And Folk Paintings   </a></b></li>  
   
   
   
