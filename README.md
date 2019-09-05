@@ -545,18 +545,18 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(59).pdf" style="text-decoration:none;">India's struggle for Independence </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(60).pdf" style="text-decoration:none;">Governance in India  </a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(26).pdf" style="text-decoration:none;">Current Affairs Digest November - 2017</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(27).pdf" style="text-decoration:none;">India Physical Geography</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(28).rar" style="text-decoration:none;">Organic Chemistry </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(29).pdf" style="text-decoration:none;">Physics multiple choice questions (Fully Solved) </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(30).pdf" style="text-decoration:none;">Environment Ecology </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(31).rar" style="text-decoration:none;">The History Compendium   </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(57).pdf" style="text-decoration:none;">India 2018: A Reference Annual</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(61).pdf" style="text-decoration:none;">India After Independence 1947-2000</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(62).pdf" style="text-decoration:none;">Indian Society </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(63).pdf" style="text-decoration:none;">Makers of Modern India </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(64).pdf" style="text-decoration:none;">Handbook of India's International Relations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(65).pdf" style="text-decoration:none;">Pax Indica: India and the World of the 21st Century   </a></b></li>  
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(32).pdf" style="text-decoration:none;">Chanakya Civil Services Today - Volume 16 | Issue 3   </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(33).pdf" style="text-decoration:none;">Nonlinear Partial Differential Equations in Differential Geometry </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(34).pdf" style="text-decoration:none;">Current Affairs Synopsis 2017  </a></b></li>  
-  
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(66).pdf" style="text-decoration:none;">Modern India   </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(67).pdf" style="text-decoration:none;">Challenge and Strategy: Rethinking India's Foreign Policy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(68).rar" style="text-decoration:none;">22 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2016)  </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(69).rar" style="text-decoration:none;">Geography of India  </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(70).pdf" style="text-decoration:none;">International Relations For Civil Services Main Examinations  </a></b></li>  
   
   
   
