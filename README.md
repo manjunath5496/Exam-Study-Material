@@ -576,6 +576,18 @@ Entrance Exams </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(79).pdf" style="text-decoration:none;"> Module 6: Salient features of Indian Culture - Music, dance, drama and folk music   </a></b></li>    
   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(80).pdf" style="text-decoration:none;"> Module 7: Salient features of Indian Culture - Fairs, Festivals And Indian Traditional Sports And Martial Arts   </a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(81).pdf" style="text-decoration:none;"> Module 8: Salient features of Indian Culture - Ancient Indian Literature   </a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(82).pdf" style="text-decoration:none;"> Module 9: Salient features of Indian Culture - Vernacular Indian Literature   </a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(83).pdf" style="text-decoration:none;"> Module 1: Environment, Biodiversity And Climate Change - Framework Around Biodiversity Protection   </a></b></li>   
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(84).pdf" style="text-decoration:none;"> Module 2: Environment, Biodiversity And Climate Change - Faunal Diversity of India   </a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(85).pdf" style="text-decoration:none;"> Module 3: Environment, Biodiversity And Climate Change - Wetlands, Forests And Forest Rights Act   </a></b></li>    
+   
   </ul>
   
