@@ -537,13 +537,13 @@ Entrance Exams </a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(52).pdf" style="text-decoration:none;">CSAT Paper 1 General Studies 101 Speed Tests with 10 Practice Sets</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(53).pdf" style="text-decoration:none;">Indian Economy For Civil Services, Universities And Other Examinations </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(20).pdf" style="text-decoration:none;">Current Affairs Booklet (NDA II 2017)</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(21).pdf" style="text-decoration:none;">Complete general science for IAS</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(54).pdf" style="text-decoration:none;">Social Problems in India</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(55).pdf" style="text-decoration:none;">Indian Polity for Civil Services Examinations</a></b></li>   
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(22).pdf" style="text-decoration:none;">Complete Indian History For IAS Exam</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(23).pdf" style="text-decoration:none;">Concepts of Modern Physics </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(24).rar" style="text-decoration:none;">Environment </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(25).pdf" style="text-decoration:none;">S K Mondal's GATE, IES & IAS 20 Years Question Answers: Heat Transfer  </a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(56).pdf" style="text-decoration:none;">India After Gandhi: The History of the World's Largest Democracy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(58).pdf" style="text-decoration:none;">The Penguin History Of Early India </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(59).pdf" style="text-decoration:none;">India's struggle for Independence </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(60).pdf" style="text-decoration:none;">Governance in India  </a></b></li>   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(26).pdf" style="text-decoration:none;">Current Affairs Digest November - 2017</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(27).pdf" style="text-decoration:none;">India Physical Geography</a></b></li> 
