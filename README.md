@@ -492,5 +492,43 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(16).pdf" style="text-decoration:none;">Strength of Materials and Structures </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(17).pdf" style="text-decoration:none;">UPSC Study Material - IAS Study Notes   </a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(18).pdf" style="text-decoration:none;">Social Issues E-book For IAS Pre Exam</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(19).pdf" style="text-decoration:none;">21 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2015) </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(20).pdf" style="text-decoration:none;">Current Affairs Booklet (NDA II 2017)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(21).pdf" style="text-decoration:none;">Complete general science for IAS</a></b></li>   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(22).pdf" style="text-decoration:none;">Complete Indian History For IAS Exam</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(23).pdf" style="text-decoration:none;">Concepts of Modern Physics </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(24).rar" style="text-decoration:none;">Environment </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(25).pdf" style="text-decoration:none;">S K Mondal's GATE, IES & IAS 20 Years Question Answers: Heat Transfer  </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(26).pdf" style="text-decoration:none;">Current Affairs Digest November - 2017</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(27).pdf" style="text-decoration:none;">India Physical Geography</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(28).rar" style="text-decoration:none;">Organic Chemistry </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(29).pdf" style="text-decoration:none;">Physics multiple choice questions (Fully Solved) </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(30).pdf" style="text-decoration:none;">Environment Ecology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(31).rar" style="text-decoration:none;">The History Compendium   </a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(32).pdf" style="text-decoration:none;">Chanakya Civil Services Today - Volume 16 | Issue 3   </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(33).pdf" style="text-decoration:none;">Nonlinear Partial Differential Equations in Differential Geometry </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(34).pdf" style="text-decoration:none;">Current Affairs Synopsis 2017  </a></b></li>    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   </ul>
   
