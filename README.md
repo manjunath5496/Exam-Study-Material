@@ -525,7 +525,7 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(42).pdf" style="text-decoration:none;">Current Affairs analysis:  January - 2017  </a></b></li>   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(43).pdf" style="text-decoration:none;">Current Affairs: May - 2016</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(44).pdf" style="text-decoration:none;">Answers by I.A.S </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(44).pdf" style="text-decoration:none;">Answers by IAS </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(45).pdf" style="text-decoration:none;">Shankar IAS Environment </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(46).pdf" style="text-decoration:none;">S. Chand's ICSE Environmental Education (Class X)  </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(47).pdf" style="text-decoration:none;">Crack CSAT Paper-2 : 5 Mock Tests for Practice </a></b></li>
