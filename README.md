@@ -591,7 +591,7 @@ Entrance Exams </a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(86).pdf" style="text-decoration:none;"> Module 4: Environment, Biodiversity And Climate Change - Environmental Related Issues And Concepts-1   </a></b></li>  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(87).pdf" style="text-decoration:none;"> Module 5: Environment, Biodiversity And Climate Change - Environmental Related Issues And Concepts-2   </a></b></li>  
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(88).pdf" style="text-decoration:none;"> Module 6: Environment, Biodiversity And Climate Change - Environmental Related Issues And Concepts-3   </a></b></li> 
    
    
    
