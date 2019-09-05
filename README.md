@@ -559,7 +559,10 @@ Entrance Exams </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(70).pdf" style="text-decoration:none;">International Relations For Civil Services Main Examinations  </a></b></li>  
   
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(71).PDF" style="text-decoration:none;">Maps Compilation - IAS Prelims 2018</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(72).pdf" style="text-decoration:none;"> Vision IAS Complete Study Material   </a></b></li>  
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(73).rar" style="text-decoration:none;">IAS Test Series - Comprehensive General Studies   </a></b></li>   
   
   
   
