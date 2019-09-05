@@ -533,10 +533,10 @@ Entrance Exams </a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(49).pdf" style="text-decoration:none;">General Studies Indian Economy Paperback – 2018   </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(50).pdf" style="text-decoration:none;">Previous Papers 4100+ MCQ Compilations </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(17).pdf" style="text-decoration:none;">UPSC Study Material - IAS Study Notes   </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(51).pdf" style="text-decoration:none;">From Plassey to Partition: A History of Modern India   </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(18).pdf" style="text-decoration:none;">Social Issues E-book For IAS Pre Exam</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(19).pdf" style="text-decoration:none;">21 Years CSAT General Studies IAS Prelims Topic-wise Solved Papers (1995-2015) </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(52).pdf" style="text-decoration:none;">CSAT Paper 1 General Studies 101 Speed Tests with 10 Practice Sets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(53).pdf" style="text-decoration:none;">Indian Economy For Civil Services, Universities And Other Examinations </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(20).pdf" style="text-decoration:none;">Current Affairs Booklet (NDA II 2017)</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/upa(21).pdf" style="text-decoration:none;">Complete general science for IAS</a></b></li>   
   
