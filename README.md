@@ -630,6 +630,21 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(18).pdf" style="text-decoration:none;">GATE Psychology: Mock Test Paper</a></b></li>     
   
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(11).pdf" style="text-decoration:none;">Mechanical Engineers' Handbook </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(13).pdf" style="text-decoration:none;">Handbook of Civil Engineering Calculations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(19).pdf" style="text-decoration:none;">Standard Handbook for Civil Engineers</a></b></li>       
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(20).rar" style="text-decoration:none;">Marks' Standard Handbook for Mechanical Engineers</a></b></li>     
+    
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(21).rar" style="text-decoration:none;">The Electronics Handbook </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(22).rar" style="text-decoration:none;">Computer Science Handbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(23).pdf" style="text-decoration:none;">Practical Electronics Handbook</a></b></li>      
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(24).pdf" style="text-decoration:none;">Lange's Handbook of Chemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(25).pdf" style="text-decoration:none;">A Concise Handbook of Mathematics, Physics, and Engineering Sciences</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(26).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></b></li>     
+  
   
   </ul>
   
