@@ -645,6 +645,19 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(25).pdf" style="text-decoration:none;">A Concise Handbook of Mathematics, Physics, and Engineering Sciences</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(26).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></b></li>     
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(27).pdf" style="text-decoration:none;">Handbook of Physics </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(28).pdf" style="text-decoration:none;">Handbook of Mathematics for Engineers and Scientists</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(29).pdf" style="text-decoration:none;">Soil and Water Conservation Engineering</a></b></li>     
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(30).rar" style="text-decoration:none;"> CRC Handbook of Chemistry and Physics </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(31).pdf" style="text-decoration:none;">Handbook of Biochemistry and Molecular Biology</a></b></li>
+  
+   
+  
+  
+  
+  
+  
   
   </ul>
   
