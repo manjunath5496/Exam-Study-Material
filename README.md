@@ -603,6 +603,7 @@ Entrance Exams </a></b></li>
    
    
   </ul>
+  </br>
   
   <h2> GATE    </h2>
   
@@ -617,12 +618,16 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(7).pdf" style="text-decoration:none;">Wiley Acing The Gate: Mechanical Engineering</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(8).pdf" style="text-decoration:none;">Wiley Acing the GATE: Electrical Engineering </a></b></li>  
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(9).rar" style="text-decoration:none;">Upkar GATE Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(10).pdf" style="text-decoration:none;">GATE Chemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(12).pdf" style="text-decoration:none;">Heat Transfer</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(14).pdf" style="text-decoration:none;">Graduate Aptitude Test in Engineering: Chemistry </a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(15).pdf" style="text-decoration:none;">Power Plant Engineering </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(16).pdf" style="text-decoration:none;">Basics of Electrical Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(17).pdf" style="text-decoration:none;">GATE Biotechnology: Mock Test Paper</a></b></li>       
   
-  
-  
-  
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(18).pdf" style="text-decoration:none;">GATE Psychology: Mock Test Paper</a></b></li>     
   
   
   
