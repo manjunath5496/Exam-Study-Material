@@ -604,3 +604,32 @@ Entrance Exams </a></b></li>
    
   </ul>
   
+  <h2> GATE    </h2>
+  
+  <ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(1).pdf" style="text-decoration:none;">GATE Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(2).rar" style="text-decoration:none;">GATE for Electrical Engineering </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(3).pdf" style="text-decoration:none;">Life Sciences: Fundamentals and Practice, Part – II</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(4).pdf" style="text-decoration:none;">Refrigeration and Air-Conditioning  </a></b></li> 
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(5).pdf" style="text-decoration:none;">Strength of Materials and Structures </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(6).rar" style="text-decoration:none;">Wiley Acing the GATE - Engineering Mathematics and General Aptitude </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(7).pdf" style="text-decoration:none;">Wiley Acing The Gate: Mechanical Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(8).pdf" style="text-decoration:none;">Wiley Acing the GATE: Electrical Engineering </a></b></li>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </ul>
+  
+  
+  
+  
+  
+  
