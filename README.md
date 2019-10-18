@@ -662,6 +662,64 @@ Entrance Exams </a></b></li>
   </ul>
   
   
+   </br>
+  
+  <h2> CMAT | NDA | CET | GPAT   </h2>
+  
+  <ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(1).pdf" style="text-decoration:none;">GATE Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(2).rar" style="text-decoration:none;">GATE for Electrical Engineering </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(3).pdf" style="text-decoration:none;">Life Sciences: Fundamentals and Practice, Part – II</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(4).pdf" style="text-decoration:none;">Refrigeration and Air-Conditioning  </a></b></li> 
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(5).pdf" style="text-decoration:none;">Strength of Materials and Structures </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(6).rar" style="text-decoration:none;">Wiley Acing the GATE - Engineering Mathematics and General Aptitude </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(7).pdf" style="text-decoration:none;">Wiley Acing The Gate: Mechanical Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(8).pdf" style="text-decoration:none;">Wiley Acing the GATE: Electrical Engineering </a></b></li>  
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(9).rar" style="text-decoration:none;">Upkar GATE Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(10).pdf" style="text-decoration:none;">GATE Chemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(12).pdf" style="text-decoration:none;">Heat Transfer</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(14).pdf" style="text-decoration:none;">Graduate Aptitude Test in Engineering: Chemistry </a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(15).pdf" style="text-decoration:none;">Power Plant Engineering </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(16).pdf" style="text-decoration:none;">Basics of Electrical Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(17).pdf" style="text-decoration:none;">GATE Biotechnology: Mock Test Paper</a></b></li>       
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(18).pdf" style="text-decoration:none;">GATE Psychology: Mock Test Paper</a></b></li>     
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(11).pdf" style="text-decoration:none;">Mechanical Engineers' Handbook </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(13).pdf" style="text-decoration:none;">Handbook of Civil Engineering Calculations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(19).pdf" style="text-decoration:none;">Standard Handbook for Civil Engineers</a></b></li>       
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(20).rar" style="text-decoration:none;">Marks' Standard Handbook for Mechanical Engineers</a></b></li>     
+    
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(21).rar" style="text-decoration:none;">The Electronics Handbook </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(22).rar" style="text-decoration:none;">Computer Science Handbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(23).pdf" style="text-decoration:none;">Practical Electronics Handbook</a></b></li>      
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(24).pdf" style="text-decoration:none;">Lange's Handbook of Chemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(25).pdf" style="text-decoration:none;">A Concise Handbook of Mathematics, Physics, and Engineering Sciences</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(26).pdf" style="text-decoration:none;">The Cambridge Handbook of Physics Formulas</a></b></li>     
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(27).pdf" style="text-decoration:none;">Handbook of Physics </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(28).pdf" style="text-decoration:none;">Handbook of Mathematics for Engineers and Scientists</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(29).pdf" style="text-decoration:none;">Soil and Water Conservation Engineering</a></b></li>     
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(30).rar" style="text-decoration:none;"> CRC Handbook of Chemistry and Physics </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(31).pdf" style="text-decoration:none;">Handbook of Biochemistry and Molecular Biology</a></b></li>
+  
+   
+  
+  
+  
+  
+  
+  
+  </ul>
+  
   
   
   
