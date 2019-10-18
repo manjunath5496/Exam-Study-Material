@@ -673,16 +673,18 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(4).pdf" style="text-decoration:none;">CMAT sample paper  </a></b></li> 
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(5).pdf" style="text-decoration:none;">Common Management Admission Test (CMAT 2018) </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(6).pdf" style="text-decoration:none;">Wiley Acing the GATE - Engineering Mathematics and General Aptitude </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(7).pdf" style="text-decoration:none;">Wiley Acing The Gate: Mechanical Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(8).pdf" style="text-decoration:none;">Wiley Acing the GATE: Electrical Engineering </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(6).pdf" style="text-decoration:none;">GPAT 2012 sample paper</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(7).pdf" style="text-decoration:none;">GPAT 2011 Question Paper</a></b></li>
+ 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(9).rar" style="text-decoration:none;">Upkar GATE Mathematics </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(10).pdf" style="text-decoration:none;">GATE Chemistry </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(12).pdf" style="text-decoration:none;">Heat Transfer</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(14).pdf" style="text-decoration:none;">Graduate Aptitude Test in Engineering: Chemistry </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(9).pdf" style="text-decoration:none;">GPAT Model Paper </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(10).pdf" style="text-decoration:none;">The Power of Vedic Maths </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(11).pdf" style="text-decoration:none;">Vedic Mathematics Made Easy </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(12).pdf" style="text-decoration:none;">MHT-CET Physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(13).pdf" style="text-decoration:none;">MOCK MHT-CET EXAM-2018 Question Booklet: Physics and Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(14).pdf" style="text-decoration:none;">Current Affairs January 2017 </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(15).pdf" style="text-decoration:none;">Power Plant Engineering </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(15).pdf" style="text-decoration:none;">Current Affairs September 2016</a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(16).pdf" style="text-decoration:none;">Basics of Electrical Engineering</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/gte(17).pdf" style="text-decoration:none;">GATE Biotechnology: Mock Test Paper</a></b></li>       
   
