@@ -706,11 +706,15 @@ Entrance Exams </a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(27).pdf" style="text-decoration:none;">UPSC NDA Exam 2010-I Mathematics Solved Paper </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(28).pdf" style="text-decoration:none;">Aptitude Master: A Complete Hand Book To Crack Placement Exams</a></b></li>
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(8).pdf" style="text-decoration:none;">Solved question paper of CMAT </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(16).pdf" style="text-decoration:none;">MCQs in Pharmacology </a></b></li>
   
-   
-  
-  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(30).pdf" style="text-decoration:none;">Immunology </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(31).pdf" style="text-decoration:none;">Organic Chemistry Questions and Answers</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(32).pdf" style="text-decoration:none;">MCQs in Biochemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(33).pdf" style="text-decoration:none;">Objective General English 10000 Plus Questions</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(34).pdf" style="text-decoration:none;">Pharmacology Question Bank </a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(35).rar" style="text-decoration:none;">The Geography and Ecology Compendium</a></b></li>  
   
   
   
