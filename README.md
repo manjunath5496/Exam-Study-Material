@@ -716,7 +716,11 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(34).pdf" style="text-decoration:none;">Pharmacology Question Bank </a></b></li>  
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(35).rar" style="text-decoration:none;">The Geography and Ecology Compendium</a></b></li>  
   
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(29).pdf" style="text-decoration:none;">A Textbook of Clinical Pharmacology and Therapeutics</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(36).pdf" style="text-decoration:none;">Drugs Acting on the Central Nervous System  </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(37).pdf" style="text-decoration:none;">Pharmacology Lecture Notes</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(38).pdf" style="text-decoration:none;">BRS Pharmacology </a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(39).pdf" style="text-decoration:none;">Clinical Pharmacology Made Incredibly Easy!</a></b></li> 
   
   
   </ul>
