@@ -664,7 +664,7 @@ Entrance Exams </a></b></li>
   
    </br>
   
-  <h2> CMAT | NDA | CET | GPAT   </h2>
+  <h2> CMAT | NDA | CET | GPAT | SAT   </h2>
   
 
   <ul>
@@ -721,6 +721,27 @@ Entrance Exams </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(37).pdf" style="text-decoration:none;">Pharmacology Lecture Notes</a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(38).pdf" style="text-decoration:none;">BRS Pharmacology </a></b></li>  
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/cmt(39).pdf" style="text-decoration:none;">Clinical Pharmacology Made Incredibly Easy!</a></b></li> 
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(1).pdf" style="text-decoration:none;">Cracking the SAT Math-2 Subject Test</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(2).pdf" style="text-decoration:none;">Cracking the AP Physics 1 Exam 2018, Premium Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(3).pdf" style="text-decoration:none;">Cracking the SAT Subject Test in Chemistry</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(4).pdf" style="text-decoration:none;">Cracking the SAT Chemistry Subject Test</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(5).pdf" style="text-decoration:none;">Cracking the AP Chemistry Exam 2018 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(6).pdf" style="text-decoration:none;">Cracking the SAT Math 1 & 2 Subject Tests</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(7).pdf" style="text-decoration:none;"Cracking the SAT Physics Subject Test</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(8).pdf" style="text-decoration:none;">Cracking the SAT Literature Subject Test</a></b></li>  
+  
+  
+  
+  
+  
   
   
   </ul>
