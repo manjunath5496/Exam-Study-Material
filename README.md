@@ -738,7 +738,21 @@ Entrance Exams </a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(8).pdf" style="text-decoration:none;">Cracking the SAT Literature Subject Test</a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(9).pdf" style="text-decoration:none;">Cracking the GRE with 4 full-length Practice Tests</a></b></li> 
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(10).pdf" style="text-decoration:none;">Cracking the AP Calculus AB Exam 2016 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(12).pdf" style="text-decoration:none;">Cracking the GRE Premium 2015 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(13).pdf" style="text-decoration:none;"> Cracking the AP Biology Exam Premium 2018 Edition</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(14).pdf" style="text-decoration:none;">Cracking the GRE 2013 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(15).pdf" style="text-decoration:none;"> Cracking the SAT Subject Test in Math 2</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(16).pdf" style="text-decoration:none;">Cracking the AP Physics C Exam, 2018 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(17).pdf" style="text-decoration:none;">Cracking the GRE Mathematics Subject Test</a></b></li>  
   
   
   
