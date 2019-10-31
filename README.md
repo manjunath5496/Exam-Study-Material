@@ -734,7 +734,7 @@ Entrance Exams </a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(6).pdf" style="text-decoration:none;">Cracking the SAT Math 1 & 2 Subject Tests</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(7).pdf" style="text-decoration:none;"Cracking the SAT Physics Subject Test</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(7).pdf" style="text-decoration:none;">Cracking the SAT Physics Subject Test</a></b></li> 
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(8).pdf" style="text-decoration:none;">Cracking the SAT Literature Subject Test</a></b></li>  
   
