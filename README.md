@@ -793,65 +793,60 @@ Entrance Exams </a></b></li>
   <ul>
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(1).pdf" style="text-decoration:none;">Stay on Track for the PMP Exam with 200 Prep Questions</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(1).pdf" style="text-decoration:none;">Stay on Track for the PMP Exam with 200 Prep Questions</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(2).pdf" style="text-decoration:none;">Achieve PMP Exam Success: A Concise Study Guide for the Busy Project Manager </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(2).pdf" style="text-decoration:none;">Achieve PMP Exam Success: A Concise Study Guide for the Busy Project Manager </a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(3).pdf" style="text-decoration:none;">ITIL Foundation Exam Study Guide</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(3).pdf" style="text-decoration:none;">ITIL Foundation Exam Study Guide</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(4).pdf" style="text-decoration:none;">Pass the PMP Exam: Tools, Tips and Tricks to Succeed</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(4).pdf" style="text-decoration:none;">Pass the PMP Exam: Tools, Tips and Tricks to Succeed</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(5).pdf" style="text-decoration:none;">PMP Lite Mock exams, based on PMBOK 5</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(5).pdf" style="text-decoration:none;">PMP Lite Mock exams, based on PMBOK 5</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(6).pdf" style="text-decoration:none;">Cracking the SAT Math 1 & 2 Subject Tests</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(6).pdf" style="text-decoration:none;">PMP Certification All-in-One For Dummies</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(7).pdf" style="text-decoration:none;">Cracking the SAT Physics Subject Test</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(7).pdf" style="text-decoration:none;">PMP Certification: A Beginner's Guide</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(8).pdf" style="text-decoration:none;">Cracking the SAT Literature Subject Test</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(8).pdf" style="text-decoration:none;">PMP Exam Prep—Questions, Answers & Explanations, 2013 Edition</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(9).pdf" style="text-decoration:none;">Cracking the GRE with 4 full-length Practice Tests</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(9).pdf" style="text-decoration:none;">PMP Examination Practice Questions: 400 Practice Questions and Answers to help you Pass</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(10).pdf" style="text-decoration:none;">Cracking the AP Calculus AB Exam 2016 Edition</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(10).pdf" style="text-decoration:none;">Project Management Professional Exam Study Guide</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(12).pdf" style="text-decoration:none;">Cracking the GRE Premium 2015 Edition</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(11).pdf" style="text-decoration:none;">PMP Rapid Review</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(13).pdf" style="text-decoration:none;"> Cracking the AP Biology Exam Premium 2018 Edition</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(12).pdf" style="text-decoration:none;">PMP Exam Challenge!</a></b></li> 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(14).pdf" style="text-decoration:none;">Cracking the GRE 2013 Edition</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(13).pdf" style="text-decoration:none;"> PMP Exam Practice Test and Study Guide </a></b></li>
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(15).pdf" style="text-decoration:none;"> Cracking the SAT Subject Test in Math 2</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(14).pdf" style="text-decoration:none;">Pmp Exam In Depth: Project Management Professional Study Guide for the Pmp Examn</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(16).pdf" style="text-decoration:none;">Cracking the AP Physics C Exam, 2018 Edition</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(15).pdf" style="text-decoration:none;"> PMP Certification Exam Prep Boot Camp</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(17).pdf" style="text-decoration:none;">Cracking the GRE Mathematics Subject Test</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(16).pdf" style="text-decoration:none;">Preparing for the Project Management Professional (PMP) Certification Exam</a></b></li> 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(11).pdf" style="text-decoration:none;"> SAT Subject Test Biology</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(17).rar" style="text-decoration:none;">p2a; Passing the Prince2agile Practitioner Exam at Your First Attempt</a></b></li>  
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(18).pdf" style="text-decoration:none;">Project Management Workbook and PMP / CAPM Exam Study Guide</a></b></li> 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(18).pdf" style="text-decoration:none;">McGraw-Hill's Conquering SAT Math Second Edition</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(19).pdf" style="text-decoration:none;"> The PMP Exam: How to Pass on Your First Try</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(19).pdf" style="text-decoration:none;"> NTSE 20 Solved Papers SAT + MAT</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(20).pdf" style="text-decoration:none;">The AMA Handbook of Project Management</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(20).pdf" style="text-decoration:none;">Reading Workbook for the NEW SAT</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(21).pdf" style="text-decoration:none;">ITIL Foundation, ITIL 4 Edition</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(21).pdf" style="text-decoration:none;">McGraw-Hill's SAT 2400!</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(22).pdf" style="text-decoration:none;">ITIL Service Manager Exam Preparation Course in a Book for Passing the ITIL Service Managers V2 Exam</a></b></li>  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(22).pdf" style="text-decoration:none;">SAT II Success Physics, 2nd edition</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(23).pdf" style="text-decoration:none;">ITIL V3 Foundation Complete Certification Kit: 2009 Edition Study Guide Book and Online Course</a></b></li> 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(23).pdf" style="text-decoration:none;">11 Mathematics Practice Tests for the New SAT and PSAT</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(24).pdf" style="text-decoration:none;">Gruber's Complete SAT Math Workbook</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(24).pdf" style="text-decoration:none;">Become ITIL Foundation Certified in 7 Days</a></b></li>  
   
     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(25).rar" style="text-decoration:none;">SAT Math For Dummies</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(25).rar" style="text-decoration:none;">PMP Exam Prep: Rapid Learning to Pass PMI's PMP Exam &minus;on Your First Try!</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(26).pdf" style="text-decoration:none;">SAT Subject Test: Chemistry Crash Course</a></b></li>
+
   
-  
-  
-  
-  
-  
-  
+   
   </ul>
   
   
