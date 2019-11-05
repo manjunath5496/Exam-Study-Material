@@ -793,15 +793,15 @@ Entrance Exams </a></b></li>
   <ul>
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(1).pdf" style="text-decoration:none;">Cracking the SAT Math-2 Subject Test</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(1).pdf" style="text-decoration:none;">Stay on Track for the PMP Exam with 200 Prep Questions</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(2).pdf" style="text-decoration:none;">Cracking the AP Physics 1 Exam 2018, Premium Edition</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(2).pdf" style="text-decoration:none;">Achieve PMP Exam Success: A Concise Study Guide for the Busy Project Manager </a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(3).pdf" style="text-decoration:none;">Cracking the SAT Subject Test in Chemistry</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(3).pdf" style="text-decoration:none;">ITIL Foundation Exam Study Guide</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(4).pdf" style="text-decoration:none;">Cracking the SAT Chemistry Subject Test</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(4).pdf" style="text-decoration:none;">Pass the PMP Exam: Tools, Tips and Tricks to Succeed</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(5).pdf" style="text-decoration:none;">Cracking the AP Chemistry Exam 2018 Edition</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(5).pdf" style="text-decoration:none;">PMP Lite Mock exams, based on PMBOK 5</a></b></li> 
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(6).pdf" style="text-decoration:none;">Cracking the SAT Math 1 & 2 Subject Tests</a></b></li> 
   
