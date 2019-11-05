@@ -807,7 +807,7 @@ Entrance Exams </a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(7).pdf" style="text-decoration:none;">PMP Certification: A Beginner's Guide</a></b></li> 
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(8).pdf" style="text-decoration:none;">PMP Exam Prep—Questions, Answers & Explanations, 2013 Edition</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(8).pdf" style="text-decoration:none;">PMP Exam Prep — Questions, Answers & Explanations, 2013 Edition</a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(9).pdf" style="text-decoration:none;">PMP Examination Practice Questions: 400 Practice Questions and Answers to help you Pass</a></b></li> 
   
