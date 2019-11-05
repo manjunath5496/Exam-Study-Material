@@ -785,5 +785,83 @@ Entrance Exams </a></b></li>
   
   
   
+   </br>
+  
+  <h2> PMP | ITIL   </h2>
+  
+
+  <ul>
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(1).pdf" style="text-decoration:none;">Cracking the SAT Math-2 Subject Test</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(2).pdf" style="text-decoration:none;">Cracking the AP Physics 1 Exam 2018, Premium Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(3).pdf" style="text-decoration:none;">Cracking the SAT Subject Test in Chemistry</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(4).pdf" style="text-decoration:none;">Cracking the SAT Chemistry Subject Test</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(5).pdf" style="text-decoration:none;">Cracking the AP Chemistry Exam 2018 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(6).pdf" style="text-decoration:none;">Cracking the SAT Math 1 & 2 Subject Tests</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(7).pdf" style="text-decoration:none;">Cracking the SAT Physics Subject Test</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(8).pdf" style="text-decoration:none;">Cracking the SAT Literature Subject Test</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(9).pdf" style="text-decoration:none;">Cracking the GRE with 4 full-length Practice Tests</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(10).pdf" style="text-decoration:none;">Cracking the AP Calculus AB Exam 2016 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(12).pdf" style="text-decoration:none;">Cracking the GRE Premium 2015 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(13).pdf" style="text-decoration:none;"> Cracking the AP Biology Exam Premium 2018 Edition</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(14).pdf" style="text-decoration:none;">Cracking the GRE 2013 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(15).pdf" style="text-decoration:none;"> Cracking the SAT Subject Test in Math 2</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(16).pdf" style="text-decoration:none;">Cracking the AP Physics C Exam, 2018 Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(17).pdf" style="text-decoration:none;">Cracking the GRE Mathematics Subject Test</a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(11).pdf" style="text-decoration:none;"> SAT Subject Test Biology</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(18).pdf" style="text-decoration:none;">McGraw-Hill's Conquering SAT Math Second Edition</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(19).pdf" style="text-decoration:none;"> NTSE 20 Solved Papers SAT + MAT</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(20).pdf" style="text-decoration:none;">Reading Workbook for the NEW SAT</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(21).pdf" style="text-decoration:none;">McGraw-Hill's SAT 2400!</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(22).pdf" style="text-decoration:none;">SAT II Success Physics, 2nd edition</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(23).pdf" style="text-decoration:none;">11 Mathematics Practice Tests for the New SAT and PSAT</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(24).pdf" style="text-decoration:none;">Gruber's Complete SAT Math Workbook</a></b></li>  
+  
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(25).rar" style="text-decoration:none;">SAT Math For Dummies</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/sat(26).pdf" style="text-decoration:none;">SAT Subject Test: Chemistry Crash Course</a></b></li>
+  
+  
+  
+  
+  
+  
+  
+  </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
