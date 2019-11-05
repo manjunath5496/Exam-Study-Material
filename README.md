@@ -819,7 +819,7 @@ Entrance Exams </a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(13).pdf" style="text-decoration:none;"> PMP Exam Practice Test and Study Guide </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(14).pdf" style="text-decoration:none;">Pmp Exam In Depth: Project Management Professional Study Guide for the Pmp Examn</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(14).pdf" style="text-decoration:none;">Pmp Exam In Depth: Project Management Professional Study Guide for the Pmp Exam</a></b></li> 
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ptl(15).pdf" style="text-decoration:none;"> PMP Certification Exam Prep Boot Camp</a></b></li> 
   
