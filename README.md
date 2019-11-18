@@ -883,10 +883,16 @@ Entrance Exams </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(20).pdf" style="text-decoration:none;">A Study Guide to the ISTQB Foundation Level 2018 Syllabus: Test Techniques and Sample Mock Exams</a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(21).pdf" style="text-decoration:none;">A+ Exam Cram2 (Exams 220-221 and 220-222)</a></b></li>     
    
-   
-   
-   
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(22).pdf" style="text-decoration:none;">Ace the PMI-ACP exam: A Quick Reference Guide for the Busy Professional</a></b></li>     
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(23).pdf" style="text-decoration:none;">AWS Certified SysOps Administrator Official Study Guide &minus; Associate Exam</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(24).pdf" style="text-decoration:none;">CCNA Security</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(25).pdf" style="text-decoration:none;">CEH Certified Ethical Hacker Certification Exam Preparation Course in a Book for Passing the CEH Certified Ethical Hacker Exam</a></b></li>     
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(26).pdf" style="text-decoration:none;">Electrician's Exam Preparation Guide</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(27).pdf" style="text-decoration:none;">Exam 70-515: Web Applications Development with Microsoft .NET Framework 4</a></b></li>       
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(28).pdf" style="text-decoration:none;">Master Dentistry: Volume 1: Oral and Maxillofacial Surgery, Radiology, Pathology and Oral Medicine</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(29).pdf" style="text-decoration:none;">Schwartz's Principles of Surgery ABSITE and Board Review</a></b></li>    
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(30).pdf" style="text-decoration:none;">SSCP Systems Security Certified Practitioner All-in-One Exam Guide</a></b></li>  
    
    
    
