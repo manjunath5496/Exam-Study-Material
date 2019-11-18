@@ -857,11 +857,37 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(1).pdf" style="text-decoration:none;">CompTIA A+ Complete Review Guide</a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(2).pdf" style="text-decoration:none;">CompTIA A+ 220-901 and 220-902</a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(3).pdf" style="text-decoration:none;">ACCA &minus; F8 Audit and Assurance (International)</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(5).pdf" style="text-decoration:none;">Upkar's Bank Probationary Officers Management Trainees Common Written Exam Book</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(6).pdf" style="text-decoration:none;">CAPM in Depth: Certified Associate in Project Management Study Guide for the CAPM Exam</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(7).pdf" style="text-decoration:none;">CCNA Cisco Certified Network Associate CCNA (v3.0): 200-125 Exam Answer Part 2</a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(8).pdf" style="text-decoration:none;">OCA / OCP Java SE 8 Programmer Practice Tests</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(9).pdf" style="text-decoration:none;">OCA Java SE 8 Programmer I Certification Guide</a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(10).pdf" style="text-decoration:none;">OCA /OCP Oracle Database 11g All-in-One Exam Guide</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(11).pdf" style="text-decoration:none;">CCENT Cisco Certified Entry Networking Technician ICND1 Study Guide</a></b></li> 
 
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(12).pdf" style="text-decoration:none;">William Maning's TOGAF 9: Foundation Part 1 Certified Exam</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(13).pdf" style="text-decoration:none;">Oracle WebLogic Server 12c Administration I Exam 1Z0-133: A Comprehensive Certification Guide</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(14).pdf" style="text-decoration:none;">PgMP Exam Test Preparation: Test Questions, Practice Tests, and Simulated Exams</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(15).pdf" style="text-decoration:none;">Become A MathHacker </a></b></li> 
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(16).pdf" style="text-decoration:none;">Wiley CIAexcel Exam Review 2014</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(17).pdf" style="text-decoration:none;">31 days before your CCNA exam</a></b></li>   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
   </ul> 
   
