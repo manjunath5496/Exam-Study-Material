@@ -878,8 +878,10 @@ Entrance Exams </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(16).pdf" style="text-decoration:none;">Wiley CIAexcel Exam Review 2014</a></b></li> 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(17).pdf" style="text-decoration:none;">31 days before your CCNA exam</a></b></li>   
    
-   
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(18).pdf" style="text-decoration:none;">CISSP Exam Cram</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(19).pdf" style="text-decoration:none;">A Radiologist's Notes on Physics</a></b></li>     
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(20).pdf" style="text-decoration:none;">A Study Guide to the ISTQB Foundation Level 2018 Syllabus: Test Techniques and Sample Mock Exams</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(21).pdf" style="text-decoration:none;">A+ Exam Cram2 (Exams 220-221 and 220-222)</a></b></li>     
    
    
    
