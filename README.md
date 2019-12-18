@@ -895,7 +895,47 @@ Entrance Exams </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(29).pdf" style="text-decoration:none;">Schwartz's Principles of Surgery ABSITE and Board Review</a></b></li>    
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ompc(30).pdf" style="text-decoration:none;">SSCP Systems Security Certified Practitioner All-in-One Exam Guide</a></b></li>  
    
-   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(1).pdf" style="text-decoration:none;">300 Solved Problems: Soil / Rock Mechanics and Foundations Engineering</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(2).pdf" style="text-decoration:none;">ACCA Paper F8 &minus; Audit and Assurance (international)</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(3).pdf" style="text-decoration:none;">CCIE Security Written Exam v4.0</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(4).pdf" style="text-decoration:none;">How to Pass Numerical Reasoning Tests</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(5).pdf" style="text-decoration:none;">LPIC-2 Study Guide</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(6).pdf" style="text-decoration:none;">LSAT Secrets Study Guide: LSAT Exam Review for the Law School Admission Test</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(7).pdf" style="text-decoration:none;">Physics for the IB Diploma: Exam Preparation Guide</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(8).pdf" style="text-decoration:none;">RHCE Red Hat Certified Engineer Linux: 100 Success Secrets on RHCE Linux Test Preparation, Study Guides, Practice Exams, Braindumps, Certification Exam Guides, Sample Questions, Preparation, Tips and Tricks, and Much More</a></b></li> 
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(9).pdf" style="text-decoration:none;">TOGAF 9 Foundation Part 1 Certified Exam: The How To Pass on Your First Try</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(10).pdf" style="text-decoration:none;">Wiley CIA Exam Review: Internal Audit Activity's Role in Governance, Risk, and Control</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(11).pdf" style="text-decoration:none;">Wiley Study Guide for 2015 Level I CFA Exam, Volume 1: Ethics & Quantitative Methods</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(12).pdf" style="text-decoration:none;">BMAT and UKCAT Uncovered</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(13).pdf" style="text-decoration:none;">Exam 70-515: Web Applications Development with Microsoft .NET Framework 4</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(14).pdf" style="text-decoration:none;">Oracle WebLogic Server 12c Administration I Exam 1Z0-133: A Comprehensive Certification Guide</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(15).pdf" style="text-decoration:none;">CEH Certified Ethical Hacker Practice Exams</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(16).pdf" style="text-decoration:none;">Edexcel A-Level Mathematics </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(17).pdf" style="text-decoration:none;">Solar Photovoltaic Basics: A Study Guide for the NABCEP Entry Level Exam</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
    
   </ul> 
