@@ -958,11 +958,11 @@ Entrance Exams </a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(12).pdf" style="text-decoration:none;">Mathematical Problems and Puzzles from the Polish Mathematical Olympiads</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(13).pdf" style="text-decoration:none;">Exam 70-515: Web Applications Development with Microsoft .NET Framework 4</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(13).pdf" style="text-decoration:none;">Math Workout for the Gre</a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(14).pdf" style="text-decoration:none;">Med Surg Quick Notes</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(15).pdf" style="text-decoration:none;">CEH Certified Ethical Hacker Practice Exams</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(15).pdf" style="text-decoration:none;">The Princeton Review : Cracking the AP - U.S. Government and Politics Exam</a></b></li> 
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(16).pdf" style="text-decoration:none;">NCLEX-PN Exam Prep </a></b></li> 
  
