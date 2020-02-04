@@ -952,7 +952,7 @@ Entrance Exams </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(9).pdf" style="text-decoration:none;">Inequalities: A Mathematical Olympiad Approach</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(10).pdf" style="text-decoration:none;">Wiley CIA Exam Review: Internal Audit Activity's Role in Governance, Risk, and Control</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(10).pdf" style="text-decoration:none;">Basic Medical Sciences for MRCP Part I</a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(11).pdf" style="text-decoration:none;">Lecture Notes in Pharmacy Practice</a></b></li> 
  
@@ -992,7 +992,11 @@ Entrance Exams </a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(29).pdf" style="text-decoration:none;">Wiley CPA Examination Review Focus Notes: Financial Accounting and Reporting</a></b></li> 
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(30).pdf" style="text-decoration:none;"> Sonography Exam Review: Physics, Abdomen, Obstetrics and Gynecology</a></b></li> 
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(31).pdf" style="text-decoration:none;">Quick Review Cards for Medical Laboratory Science</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(32).pdf" style="text-decoration:none;">Medical Laboratory Science Examination Review</a></b></li> 
  
  
  
