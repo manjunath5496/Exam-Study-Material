@@ -931,6 +931,69 @@ Entrance Exams </a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/lsat(17).pdf" style="text-decoration:none;">Solar Photovoltaic Basics: A Study Guide for the NABCEP Entry Level Exam</a></b></li> 
  
  
+
+    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(1).pdf" style="text-decoration:none;">Lecture Notes on Mathematical Olympiad Courses</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(2).pdf" style="text-decoration:none;">A Path to Combinatorics for Undergraduates: Counting Strategies</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(3).rar" style="text-decoration:none;"> Asian Physics Olympiad (1st-8th): Problems And Solutions</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(4).pdf" style="text-decoration:none;">BIOS Instant Notes in Microbiology</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(5).pdf" style="text-decoration:none;">IIT Foundation and Olympiad Explorer – Physics (Class X)</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(6).pdf" style="text-decoration:none;">The Colorado Mathematical Olympiad and Further Explorations</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(7).pdf" style="text-decoration:none;">Electrician's Exam Preparation Guide </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(8).pdf" style="text-decoration:none;">Euclidean Geometry in Mathematical Olympiads: With 248 Illustrations</a></b></li> 
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(9).pdf" style="text-decoration:none;">Inequalities: A Mathematical Olympiad Approach</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(10).pdf" style="text-decoration:none;">Wiley CIA Exam Review: Internal Audit Activity's Role in Governance, Risk, and Control</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(11).pdf" style="text-decoration:none;">Lecture Notes in Pharmacy Practice</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(12).pdf" style="text-decoration:none;">Mathematical Problems and Puzzles from the Polish Mathematical Olympiads</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(13).pdf" style="text-decoration:none;">Exam 70-515: Web Applications Development with Microsoft .NET Framework 4</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(14).pdf" style="text-decoration:none;">Med Surg Quick Notes</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(15).pdf" style="text-decoration:none;">CEH Certified Ethical Hacker Practice Exams</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(16).pdf" style="text-decoration:none;">NCLEX-PN Exam Prep </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(17).pdf" style="text-decoration:none;">Passing Exams For Dummies</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(18).pdf" style="text-decoration:none;">Physics GRE Comprehensive Notes</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(19).pdf" style="text-decoration:none;">Physics Olympiad: Basic To Advanced Exercises</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(20).pdf" style="text-decoration:none;">Police Officer Exam Cram (2nd Edition)</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(21).pdf" style="text-decoration:none;">Problem Primer for the Olympiad</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(22).pdf" style="text-decoration:none;">Problem-Solving and Selected Topics in Number Theory: In the Spirit of the Mathematical Olympiads</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(23).pdf" style="text-decoration:none;">Qbase Anaesthesia: MCQs in Medicine for the FRCA</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(24).pdf" style="text-decoration:none;">Revision Notes in Psychiatry</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(25).pdf" style="text-decoration:none;">Solving Problems in Geometry: Insights and Strategies for Mathematical Olympiad and Competitions</a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(26).pdf" style="text-decoration:none;">The Humongous Book of Trigonometry Problems: 750 Trigonometry Problems with Comprehensive Solutions for All Major Topics</a></b></li>  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(27).pdf" style="text-decoration:none;">Topics in Algebra and Analysis: Preparing for the Mathematical Olympiad</a></b></li> 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(28).pdf" style="text-decoration:none;">West's Respiratory Physiology: The Essentials </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/exk(29).pdf" style="text-decoration:none;">Wiley CPA Examination Review Focus Notes: Financial Accounting and Reporting</a></b></li> 
+ 
+ 
+ 
  
  
  
