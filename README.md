@@ -605,6 +605,87 @@ Entrance Exams </a></li>
   </ul>
   </br>
   
+  <p><strong>UPSC General Studies Question Papers</strong></p>
+<ul>
+<li><a class="qlinks" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/General-Studies-Paper-I-model.pdf" data-smd-id="s86"><strong>General Studies Paper - I</strong></a>&nbsp;</li>
+<li><a title="IAS Prelims 2019: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/upsc-prelims-2019-paperI.pdf" data-smd-id="s87">IAS Prelims 2019: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2019: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/upsc-prelims-2019-paperIl.pdf" data-smd-id="s88">IAS Prelims 2019: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2018: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/upsc-prelims-2018-paperI.pdf" data-smd-id="s89">IAS Prelims 2018: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2018: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/upsc-prelims-2018-paperII.pdf" data-smd-id="s90">IAS Prelims 2018: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2016: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-I-prelims-16.pdf" data-smd-id="s91">IAS Prelims 2016: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2016: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-II-prelims-16.pdf" data-smd-id="s92">IAS Prelims 2016: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2015: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-I-prelims-15.pdf" data-smd-id="s93">IAS Prelims 2015: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2015: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-II-prelims-15.pdf" data-smd-id="s94">IAS Prelims 2015: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2014: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-I-prelims-14.pdf" data-smd-id="s95">IAS Prelims 2014: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2014: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-II-prelims-14.pdf" data-smd-id="s96">IAS Prelims 2014: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2014: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-II-prelims-x-14.pdf" data-smd-id="s97">IAS Prelims 2014: General Studies Paper II (X Series)</a></li>
+<li><a title="IAS Prelims 2013: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-I-prelims-13.pdf" data-smd-id="s98">IAS Prelims 2013: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2013: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/gs-paper-II-prelims-13.pdf" data-smd-id="s99">IAS Prelims 2013: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2012: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/pap1a.pdf" data-smd-id="s100">IAS Prelims 2012: General Studies Paper I</a></li>
+<li><a title="IAS Prelims 2012: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/pap2a.pdf" data-smd-id="s101">IAS Prelims 2012: General Studies Paper II</a></li>
+<li><a title="IAS Prelims 2012: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/pap2vha.pdf" data-smd-id="s102">IAS Prelims 2012: General Studies Paper II (X Series)</a></li>
+<li><a title="General Studies Paper I (2011)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GS_PAPER_I-prelims-11.pdf" data-smd-id="s103">General Studies Paper I (2011)</a></li>
+<li><a title="General Studies Paper II (2011)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GS_PAPER_II-prelims-11.pdf" data-smd-id="s104">General Studies Paper II (2011)</a></li>
+<li><a title="General Studies Paper II For Visually Challenged (2011)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GS_PAPER_II-vc-prelims-11.pdf" data-smd-id="s105">General Studies Paper II For Visually Challenged (2011)</a></li>
+<li><a title="IAS Prelims 2010: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/Gendral-Studies-2010.pdf" data-smd-id="s106">IAS Prelims 2010: General Studies Paper</a></li>
+<li><a title="IAS Prelims 2009: General Studies Paper" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES-prelims-09.pdf" data-smd-id="s107">IAS Prelims 2009: General Studies Paper</a></li>
+<li><a title="Sample GS Pre mock test 2007" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/sample-g-s-pre-mock-test-2007.pdf" target="_blank" data-smd-id="s108">Sample GS Pre mock test 2007</a></li>
+<li><a title="General Studies Prelim 2007" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-pre-2007.pdf" target="_blank" data-smd-id="s109">General Studies Prelim 2007</a></li>
+<li><a title="General Studies Prelim 2007" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/upsc_questions.pdf" target="_blank" data-smd-id="s110">General Studies Prelim 2007 part I</a></li>
+<li><a title="General Studies Question Paper Solved(2005)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_PREL_2005.pdf" data-smd-id="s111">General Studies Question Paper Solved(2005)</a></li>
+<li><a title="General Studies Question Paper(2004)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-2004(pre).pdf" data-smd-id="s112">General Studies Question Paper(2004)</a></li>
+
+<li><a title="General Studies Question Paper(2003)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-2003(pre)solved.pdf" data-smd-id="s114">General Studies Question Paper(2003)</a></li>
+<li><a title="General Studies Question Paper(2000)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-2000(pre).pdf" data-smd-id="s116">General Studies Question Paper(2000)</a></li>
+<li><a title="General Studies Question Paper(1998)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-1998(pre).pdf" data-smd-id="s117">General Studies Question Paper(1998)</a></li>
+<li><a title="General Studies Question Paper I(2019)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/QP-CSM19-GeneralStudies-I.pdf" data-smd-id="s119">General Studies Question Paper I (2019)</a></li>
+<li><a title="General Studies Question Paper II(2019)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/QP-CSM19-GeneralStudies-II.pdf" data-smd-id="s120">General Studies Question Paper II (2019)</a></li>
+<li><a title="General Studies Question Paper III(2019)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/QP-CSM19-GeneralStudies-III.pdf" data-smd-id="s121">General Studies Question Paper III (2019)</a></li>
+<li><a title="General Studies Question Paper IV(2019)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/QP-CSM19-GeneralStudies-IV.pdf" data-smd-id="s122">General Studies Question Paper IV (2019)</a></li>
+<li><a title="General Studies Question Paper I(2018)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-18.pdf" data-smd-id="s123">General Studies Question Paper I (2018)</a></li>
+<li><a title="General Studies Question Paper II(2018)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-18.pdf" data-smd-id="s124">General Studies Question Paper II (2018)</a></li>
+<li><a title="General Studies Question Paper III(2018)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-18.pdf" data-smd-id="s125">General Studies Question Paper III (2018)</a></li>
+<li><a title="General Studies Question Paper IV(2018)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-18.pdf" data-smd-id="s126">General Studies Question Paper IV (2018)</a></li>
+<li><a title="General Studies Question Paper I(2017)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-17.pdf" data-smd-id="s127">General Studies Question Paper I (2017)</a></li>
+<li><a title="General Studies Question Paper II(2017)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-17.pdf" data-smd-id="s128">General Studies Question Paper II (2017)</a></li>
+<li><a title="General Studies Question Paper III(2017)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-17.pdf" data-smd-id="s129">General Studies Question Paper III (2017)</a></li>
+<li><a title="General Studies Question Paper IV(2017)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-17.pdf" data-smd-id="s130">General Studies Question Paper IV (2017)</a></li>
+<li><a title="General Studies Question Paper I(2016)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-16.pdf" data-smd-id="s131">General Studies Question Paper I (2016)</a></li>
+<li><a title="General Studies Question Paper II(2016)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-16.pdf" data-smd-id="s132">General Studies Question Paper II (2016)</a></li>
+<li><a title="General Studies Question Paper III(2016)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-16.pdf" data-smd-id="s133">General Studies Question Paper III (2016)</a></li>
+<li><a title="General Studies Question Paper IV(2016)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-16.pdf" data-smd-id="s134">General Studies Question Paper IV (2016)</a></li>
+<li><a title="General Studies Question Paper I(2015)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-15.pdf" data-smd-id="s135">General Studies Question Paper I (2015)</a></li>
+<li><a title="General Studies Question Paper II(2015)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-15.pdf" data-smd-id="s136">General Studies Question Paper II (2015)</a></li>
+<li><a title="General Studies Question Paper III(2015)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-15.pdf" data-smd-id="s137">General Studies Question Paper III (2015)</a></li>
+<li><a title="General Studies Question Paper IV(2015)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-15.pdf" data-smd-id="s138">General Studies Question Paper IV (2015)</a></li>
+<li><a title="General Studies Question Paper I (2014)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-14.pdf" data-smd-id="s139">General Studies Question Paper I (2014)</a></li>
+<li><a title="General Studies Question Paper II(2014)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-14.pdf" data-smd-id="s140">General Studies Question Paper II (2014)</a></li>
+<li><a title="General Studies Question Paper III(2014)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-14.pdf" data-smd-id="s141">General Studies Question Paper III (2014)</a></li>
+<li><a title="General Studies Question Paper IV(2014)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-14.pdf" data-smd-id="s142">General Studies Question Paper IV (2014)</a></li>
+<li><a title="General Studies Question Paper I (2013)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-13.pdf" data-smd-id="s143">General Studies Question Paper I (2013)</a></li>
+<li><a title="General Studies Question Paper II(2013)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-13.pdf" data-smd-id="s144">General Studies Question Paper II (2013)</a></li>
+<li><a title="General Studies Question Paper III(2013)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_III-mains-13.pdf" data-smd-id="s145">General Studies Question Paper III (2013)</a></li>
+<li><a title="General Studies Question Paper IV(2013)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_IV-mains-13.pdf" data-smd-id="s146">General Studies Question Paper IV (2013)</a></li>
+<li><a title="General Studies Question Paper I (2012)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-12.pdf" data-smd-id="s147">General Studies Question Paper I (2012)</a></li>
+<li><a title="General Studies Question Paper II(2012)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-12.pdf" data-smd-id="s148">General Studies Question Paper II (2012)</a></li>
+<li><a title="General Studies Question Paper I (2011)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-mains-11.pdf" data-smd-id="s149">General Studies Question Paper I (2011)</a></li>
+<li><a title="General Studies Question Paper II(2011)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-mains-11.pdf" data-smd-id="s150">General Studies Question Paper II (2011)</a></li>
+<li><a title="General Studies Question Paper I (2010)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_I-main-10.pdf" data-smd-id="s151">General Studies Question Paper I (2010)</a></li>
+<li><a title="General Studies Question Paper II(2010)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GENERAL_STUDIES_II-main-10.pdf" data-smd-id="s152">General Studies Question Paper II (2010)</a></li>
+<li><a title="General Studies Question Paper (2009)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/general-studies-09.pdf" data-smd-id="s153">General Studies Question Paper (2009)</a></li>
+<li><a title="General Studies Question Paper (2008)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/general-studies-paper-main-2008-2.pdf" data-smd-id="s154">General Studies Question Paper (2008)</a></li>
+<li><a title="General Studies Question Paper (2007)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/General-Studies-Paper-2007-mains.pdf" data-smd-id="s155">General Studies Question Paper (2007)</a></li>
+<li><a title="General Studies Question Paper (2002)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-2002(main).pdf" data-smd-id="s157">General Studies Question Paper (2002)</a></li>
+<li><a title="General Studies Question Paper (2000)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-2000(main).pdf" data-smd-id="s158">General Studies Question Paper (2000)</a></li>
+<li><a title="General Studies Question Paper (1999)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-1999(main).pdf" data-smd-id="s159">General Studies Question Paper (1999)</a></li>
+<li><a title="General Studies Question Paper (1998)" href="https://github.com/manjunath5496/List-of-famous-experiments/blob/master/1/GeneralStudies-1998(Main).pdf" data-smd-id="s160">General Studies Question Paper (1998)</a></li>
+
+</ul>
+  
+
+  
+  </br>
+  
   <h2> GATE    </h2>
   
   <ul>
