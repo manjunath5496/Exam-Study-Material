@@ -1396,7 +1396,8 @@ an upper-level introductory course in enumeration, graph theory, and design theo
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(142).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(143).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: C Version</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(144).pdf" style="text-decoration:none;">Think C++</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(145).pdf" style="text-decoration:none;">Pioneer Networks: Progressively Growing Generative Autoencoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(145).pdf" style="text-decoration:none;">Signal Computing:
+Digital Signals in the Software Domain</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(146).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(147).pdf" style="text-decoration:none;">Think Data Structures: Algorithms and Information Retrieval in Java</a></li>
