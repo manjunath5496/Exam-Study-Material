@@ -1212,7 +1212,24 @@ How to Think Like a Computer Scientist</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(61).pdf" style="text-decoration:none;">Precalculus</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(62).pdf" style="text-decoration:none;">Exploring Business</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(63).pdf" style="text-decoration:none;">Light and Matter</a></li>                              
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(64).pdf" style="text-decoration:none;">American Government and Politics in the Information Age</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(65).pdf" style="text-decoration:none;">Sociology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(66).pdf" style="text-decoration:none;">Criminal Law</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(67).pdf" style="text-decoration:none;">Principles of Management</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(68).pdf" style="text-decoration:none;">Introduction to Human Geography</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(69).pdf" style="text-decoration:none;">Business Ethics</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(70).pdf" style="text-decoration:none;">Information Systems</a></li>
 
 
 
