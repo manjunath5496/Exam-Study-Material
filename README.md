@@ -1192,6 +1192,29 @@ How to Think Like a Computer Scientist</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(50).pdf" style="text-decoration:none;">Writing Spaces: Readings on Writing</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(51).pdf" style="text-decoration:none;">British Columbia in a Global Context</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(52).pdf" style="text-decoration:none;">Business English for Success</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(53).pdf" style="text-decoration:none;">Geographic Information System Basics</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(54).pdf" style="text-decoration:none;">Physical geography </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(55).pdf" style="text-decoration:none;">Introduction to Sociology 2e</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(56).pdf" style="text-decoration:none;">Beginning Chemistry</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(57).pdf" style="text-decoration:none;">Organizational Behavior</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(58).pdf" style="text-decoration:none;">Project Management from Simple to Complex</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(59).pdf" style="text-decoration:none;">Enterprise and Individual Risk Management</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(60).pdf" style="text-decoration:none;">Sustainability, Innovation, and Entrepreneurship</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(61).pdf" style="text-decoration:none;">Precalculus</a></li>
+ 
+
+
+
 
 </ul>  
   
