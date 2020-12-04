@@ -1473,7 +1473,7 @@ in Functional Assessment</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(184).pdf" style="text-decoration:none;">Human Behavior and the Social Environment I</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(185).pdf" style="text-decoration:none;">Research Methods in Psychology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(185).pdf" style="text-decoration:none;"> Psychology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(186).pdf" style="text-decoration:none;">Child Growth and Development</a></li>
                              
@@ -1501,7 +1501,9 @@ A tutorial for psychology students and other beginners</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(197).pdf" style="text-decoration:none;">Abnormal Psychology</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(198).pdf" style="text-decoration:none;">Psychology: The Science of Human Potential</a></li>                              
-
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(199).pdf" style="text-decoration:none;">Human Behavior and the Social Environment II</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(200).pdf" style="text-decoration:none;">General Psychology for Honors Students</a></li>   
   
 </ul>  
   
