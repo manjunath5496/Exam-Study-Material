@@ -1418,7 +1418,7 @@ Game Dynamics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(154).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(155).pdf" style="text-decoration:none;">Diverse Image-to-Image Translation via Disentangled Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(155).pdf" style="text-decoration:none;">Immigrant and Refugee Families</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(156).pdf" style="text-decoration:none;">Computer Networking: Principles,
 Protocols and Practice</a></li>                              
@@ -1427,7 +1427,8 @@ Volume One: Introduction to Data Science</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(158).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(159).pdf" style="text-decoration:none;">Learning deep representations by mutual information estimation and maximization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(159).pdf" style="text-decoration:none;">Social Problems:
+Continuity and Change</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(160).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>                              
 
@@ -1440,6 +1441,32 @@ Volume One: Introduction to Data Science</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(165).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li> 
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(166).pdf" style="text-decoration:none;">
+Speaking of Culture</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(167).pdf" style="text-decoration:none;">Slavery to Liberation: The African American Experience</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(168).pdf" style="text-decoration:none;">The Art of Being Human: A Textbook for Cultural Anthropology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(169).pdf" style="text-decoration:none;">Parenting and Family Diversity Issues</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(170).pdf" style="text-decoration:none;">Scientific Inquiry in Social Work</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(171).pdf" style="text-decoration:none;">Intercultural
+Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(172).pdf" style="text-decoration:none;">Classical Sociological Theory and Foundations of American Sociology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(173).pdf" style="text-decoration:none;">Beyond Race: Cultural Influences on Human Social Life</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(174).pdf" style="text-decoration:none;">Introduction to Design Equity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(175).pdf" style="text-decoration:none;">Applied Developmental Systems Science: Everything You Always Wanted to Know About Theories, Meta-Theories, Methods, and Interventions but Didn't Realize You Needed to Ask</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(176).pdf" style="text-decoration:none;">Sociological Inquiry Principles: Qualitative and Quantitative Methods</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(177).pdf" style="text-decoration:none;">Instruction
+in Functional Assessment</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(178).pdf" style="text-decoration:none;">A Quick Guide to Quantitative Research in the Social Sciences</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(179).pdf" style="text-decoration:none;">Speak Out, Call In: Public Speaking as Advocacy</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(180).pdf" style="text-decoration:none;">Foundations of Social Work Research</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(181).pdf" style="text-decoration:none;">Contemporary Families: An Equity Lens</a></li>
 
 
   
