@@ -1160,6 +1160,16 @@ Interpretation of Quantum Mechanics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(32).pdf" style="text-decoration:none;">Physical Geography and
 Natural Disasters</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(33).pdf" style="text-decoration:none;">Introduction to Probability</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(34).pdf" style="text-decoration:none;">Programming Languages: Application and Interpretation</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(35).pdf" style="text-decoration:none;">Business Information Systems</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(36).pdf" style="text-decoration:none;">Single Variable Calculus</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(37).pdf" style="text-decoration:none;">Exploring Perspectives - A Concise Guide to Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(38).pdf" style="text-decoration:none;">An Introduction to Formal Logic</a></li>
 
 
 
