@@ -1157,6 +1157,8 @@ Interpretation of Quantum Mechanics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(30).pdf" style="text-decoration:none;"> Cartographic Design</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(31).pdf" style="text-decoration:none;"> Spatial Analysis</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(32).pdf" style="text-decoration:none;">Physical Geography and
+Natural Disasters</a></li>
 
 
 
