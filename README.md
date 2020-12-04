@@ -1152,7 +1152,8 @@ Misinformation and Manipulation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(27).pdf" style="text-decoration:none;">The Cellular Automaton
 Interpretation of Quantum Mechanics</a></li>
    
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(28).pdf" style="text-decoration:none;">World Regional Geography</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(29).pdf" style="text-decoration:none;"> Introduction to Remote Sensing</a></li>
 
 
 
