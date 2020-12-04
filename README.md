@@ -1406,7 +1406,42 @@ Digital Signals in the Software Domain</a></li>
 Interpretation</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(149).pdf" style="text-decoration:none;">The Unicode
-Cookbook for Linguists</a></li>   
+Cookbook for Linguists</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(150).pdf" style="text-decoration:none;">A Person-Centered Guide to Demystifying Technology</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(151).pdf" style="text-decoration:none;">Pharo by Example 5</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(152).pdf" style="text-decoration:none;">Agent-Based Evolutionary
+Game Dynamics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(153).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(154).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(155).pdf" style="text-decoration:none;">Diverse Image-to-Image Translation via Disentangled Representations</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(156).pdf" style="text-decoration:none;">Computer Networking: Principles,
+Protocols and Practice</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(157).pdf" style="text-decoration:none;">The Crystal Ball Instruction Manual:
+Volume One: Introduction to Data Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(158).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(159).pdf" style="text-decoration:none;">Learning deep representations by mutual information estimation and maximization</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(160).pdf" style="text-decoration:none;">Nature of Geographic Information</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(161).pdf" style="text-decoration:none;">Introduction to the Modeling and Analysis of Complex Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(162).pdf" style="text-decoration:none;">The Discipline of Organizing: 4th Professional Edition</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(163).pdf" style="text-decoration:none;">Understanding Document Accessibility</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(164).pdf" style="text-decoration:none;">Unmanned Aircraft Systems in the Cyber Domain</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(165).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li> 
+ 
+
+
   
 </ul>  
   
