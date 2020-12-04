@@ -1171,6 +1171,26 @@ Natural Disasters</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(37).pdf" style="text-decoration:none;">Exploring Perspectives - A Concise Guide to Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(38).pdf" style="text-decoration:none;">An Introduction to Formal Logic</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(39).pdf" style="text-decoration:none;">International Finance: Theory and Policy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(40).pdf" style="text-decoration:none;">International Trade: Theory and Policy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(41).pdf" style="text-decoration:none;">International Relations Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(42).pdf" style="text-decoration:none;">Introduction To
+Physical Oceanography</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(43).pdf" style="text-decoration:none;">Linear Algebra: Answers to exercises</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(44).pdf" style="text-decoration:none;">Launch! Advertising and Promotion in Real Time</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(45).pdf" style="text-decoration:none;">Personal Finance</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(46).pdf" style="text-decoration:none;">
+College Trigonometry</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(47).pdf" style="text-decoration:none;">Introduction to the Law of Property, Estate Planning and Insurance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(48).pdf" style="text-decoration:none;">The Power of Selling</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(49).pdf" style="text-decoration:none;">Think Python:
+How to Think Like a Computer Scientist</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(50).pdf" style="text-decoration:none;">Writing Spaces: Readings on Writing</a></li>
 
 
 </ul>  
