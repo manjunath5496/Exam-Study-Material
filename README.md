@@ -1510,7 +1510,7 @@ A tutorial for psychology students and other beginners</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(202).pdf" style="text-decoration:none;">The History of Our Tribe: Hominini</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(203).pdf" style="text-decoration:none;">Variational Adversarial Active Learning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(203).pdf" style="text-decoration:none;">Leading with Cultural Intelligence</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(204).pdf" style="text-decoration:none;">Perspectives: An Open Introduction to Cultural Anthropology</a></li>
