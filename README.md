@@ -1243,7 +1243,36 @@ How to Think Like a Computer Scientist</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(77).pdf" style="text-decoration:none;">World Regional Geography</a></li> 
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(78).pdf" style="text-decoration:none;">Principles of Accounting,
+Volume 2: Managerial Accounting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(79).pdf" style="text-decoration:none;">Introduction to
+Financial Accounting (Adapted for U.S. GAAP)</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(80).pdf" style="text-decoration:none;">Principles of Accounting,
+Volume 1: Financial Accounting</a></li> 
  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(81).pdf" style="text-decoration:none;">Principles of Financial Accounting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(82).pdf" style="text-decoration:none;">Financial Strategy for Public Managers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(83).pdf" style="text-decoration:none;">Intermediate Financial
+Accounting: Volume 2</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(84).pdf" style="text-decoration:none;">Intermediate Financial
+Accounting: Volume 1</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(85).pdf" style="text-decoration:none;">Managerial Accounting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(86).pdf" style="text-decoration:none;">Beginning Excel 2019</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(87).pdf" style="text-decoration:none;">Money and Banking</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(88).pdf" style="text-decoration:none;">Introduction to
+Financial Accounting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(89).pdf" style="text-decoration:none;">Financial Accounting</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(90).pdf" style="text-decoration:none;">Accounting Principles:
+A Business Perspective</a></li>
+
 
 </ul>  
   
