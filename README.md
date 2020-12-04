@@ -1095,13 +1095,43 @@ Entrance Exams </a></li>
   <ul>
 <li><a target="_blank" href="https://manjunath5496.github.io/gk-quiz/index.html" style="text-decoration:none;">GK Quiz</a></li> 
  
- 
- 
- 
- 
- 
-   
-   
   </ul> 
+  
+ <hr>
+ 
+ <h2>Books</h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(1).pdf" style="text-decoration:none;">Improving Sample Quality by Training and Sampling from Latent Energy</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(2).pdf" style="text-decoration:none;">A Sober Look at the Unsupervised Learning of Disentangled Representations and their Evaluation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(3).pdf" style="text-decoration:none;">Many-to-Many Voice Conversion using Cycle-Consistent Variational Autoencoder with Multiple Decoders</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(4).pdf" style="text-decoration:none;">Evidential Disambiguation of Latent Multimodality in Conditional Variational Autoencoders</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(5).pdf" style="text-decoration:none;">Non-parallel Voice Conversion with Controllable Speaker Individuality using Variational Autoencoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(6).pdf" style="text-decoration:none;">Cross-population Variational Autoencoders</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(7).pdf" style="text-decoration:none;">Improving Multimodal Generative Models with Disentangled Latent Partitions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(8).pdf" style="text-decoration:none;"> On variational lower bounds of mutual information </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(9).pdf" style="text-decoration:none;">Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(10).pdf" style="text-decoration:none;">Group-based Learning of Disentangled Representations with Generalizability for Novel Contents</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(11).pdf" style="text-decoration:none;">Hierarchical Linear Disentanglement of Data-Driven Conceptual Spaces</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(12).pdf" style="text-decoration:none;">T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(13).pdf" style="text-decoration:none;">Joint separation, dereverberation and classification of multiple sources using multichannel variational autoencoder with auxiliary classifier</a></li>
+
+</ul>  
+  
+  
+  
+  
+  
+  
+  
   
   
