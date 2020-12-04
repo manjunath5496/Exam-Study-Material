@@ -1468,6 +1468,39 @@ in Functional Assessment</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(181).pdf" style="text-decoration:none;">Contemporary Families: An Equity Lens</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(182).pdf" style="text-decoration:none;">General Psychology: An Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(183).pdf" style="text-decoration:none;">Principles of Social Psychology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(184).pdf" style="text-decoration:none;">Human Behavior and the Social Environment I</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(185).pdf" style="text-decoration:none;">Research Methods in Psychology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(186).pdf" style="text-decoration:none;">Child Growth and Development</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(187).pdf" style="text-decoration:none;">Research Methods in Psychology</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(188).pdf" style="text-decoration:none;">Lifespan Development: A Psychological Perspective</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(189).pdf" style="text-decoration:none;">Trauma-Informed School Practices:
+Building expertise to transform schools</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(190).pdf" style="text-decoration:none;">The Balance of Personality</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(191).pdf" style="text-decoration:none;">Learning statistics with R:
+A tutorial for psychology students and other beginners</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(192).pdf" style="text-decoration:none;">Wellbeing in Educational Contexts</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(193).pdf" style="text-decoration:none;">Research Methods in Psychology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(194).pdf" style="text-decoration:none;">Personality Theory in a Cultural Context</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(195).pdf" style="text-decoration:none;">Mind, Body, World: Foundations of Cognitive Science</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(196).pdf" style="text-decoration:none;">Educational Psychology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(197).pdf" style="text-decoration:none;">Abnormal Psychology</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(198).pdf" style="text-decoration:none;">Psychology: The Science of Human Potential</a></li>                              
 
   
 </ul>  
