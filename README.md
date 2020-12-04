@@ -1135,7 +1135,8 @@ to Cooperation and Mutualism</a></li>
 Microeconomics 2e</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(17).pdf" style="text-decoration:none;">Principles of Economics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(18).pdf" style="text-decoration:none;">Principles Of Microeconomics: Scarcity And Social Provisioning</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(19).pdf" style="text-decoration:none;">Economic Sophisms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(20).pdf" style="text-decoration:none;">Transportation Economics</a></li>
 
 
 
