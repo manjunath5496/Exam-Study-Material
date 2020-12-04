@@ -1231,7 +1231,19 @@ How to Think Like a Computer Scientist</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(70).pdf" style="text-decoration:none;">Information Systems</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(71).pdf" style="text-decoration:none;">College Physics</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(72).pdf" style="text-decoration:none;">Introduction to Psychology</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(73).pdf" style="text-decoration:none;">Mapping, Society, and Technology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(74).pdf" style="text-decoration:none;">Principles of Marketing</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(75).pdf" style="text-decoration:none;">The Western World: Daily Readings on Geography</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(76).pdf" style="text-decoration:none;">Writing for Success</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(77).pdf" style="text-decoration:none;">World Regional Geography</a></li> 
+ 
+ 
 
 </ul>  
   
