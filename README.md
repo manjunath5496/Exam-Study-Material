@@ -1128,7 +1128,8 @@ Macroeconomics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(12).pdf" style="text-decoration:none;">An Introduction
 to Cooperation and Mutualism</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(13).pdf" style="text-decoration:none;">Fundamentals of Global Strategy</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(14).pdf" style="text-decoration:none;">Principles of Political Economy, 3e: A Pluralistic Approach to Economic Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(15).pdf" style="text-decoration:none;">Sustaining the Commons</a></li>
 </ul>  
   
   
