@@ -1273,7 +1273,140 @@ Financial Accounting</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(90).pdf" style="text-decoration:none;">Accounting Principles:
 A Business Perspective</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(91).pdf" style="text-decoration:none;">Enterprise Pharo:
+a Web Perspective</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(92).pdf" style="text-decoration:none;">Spatial Thinking in Planning Practice: An Introduction to GIS</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(93).pdf" style="text-decoration:none;"> Business Information Systems: Design an App for That</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(94).pdf" style="text-decoration:none;">Operating Systems and Middleware:
+Supporting Controlled Interaction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(95).pdf" style="text-decoration:none;">Professional Web Accessibility Auditing Made Easy</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(96).pdf" style="text-decoration:none;">Deep into Pharo</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(97).pdf" style="text-decoration:none;">An Introduction to Computer Networks</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(98).pdf" style="text-decoration:none;">Introduction to Programming Using Java</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(99).pdf" style="text-decoration:none;">First Semester in Numerical Analysis with Python</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(100).pdf" style="text-decoration:none;">A Tale of Two Systems</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(101).pdf" style="text-decoration:none;">An Introduction to Matlab and Mathcad</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(102).pdf" style="text-decoration:none;">Java, Java, Java
+Object-Oriented Problem Solving</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(103).pdf" style="text-decoration:none;">Blueprints: Creating, Describing, and Implementing Designs for Larger-scale Software Projects</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(104).pdf" style="text-decoration:none;">Introduction To MIPS Assembly Language Programming</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(105).pdf" style="text-decoration:none;">
+Delftse Foundations of Computation</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(106).pdf" style="text-decoration:none;">Introduction to Computer Graphics</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(107).pdf" style="text-decoration:none;">A First Course in Electrical
+and Computer Engineering</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(108).pdf" style="text-decoration:none;">Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(109).pdf" style="text-decoration:none;">The Missing Link:
+An Introduction to Web Development and Programming</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(110).pdf" style="text-decoration:none;">Making Games with
+Python and Pygame</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(111).pdf" style="text-decoration:none;">The Joy of Cryptography</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(112).pdf" style="text-decoration:none;">Think DSP:
+Digital Signal Processing in Python</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(113).pdf" style="text-decoration:none;">A Byte of Python</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(114).pdf" style="text-decoration:none;">Relational Databases
+and Microsoft Access</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(115).pdf" style="text-decoration:none;">Information Systems for Business and Beyond</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(116).pdf" style="text-decoration:none;">Squeak by Example</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(117).pdf" style="text-decoration:none;">Web Accessibility for Developers</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(118).pdf" style="text-decoration:none;">High Performance Computing</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(119).pdf" style="text-decoration:none;">Database Design</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(120).pdf" style="text-decoration:none;">Object-Oriented
+Reengineering Patterns</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(121).pdf" style="text-decoration:none;">MIPS
+Assembly Language Programming using QtSpim</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(122).pdf" style="text-decoration:none;">x86-64
+Assembly Language Programming with Ubuntu</a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(123).pdf" style="text-decoration:none;">Think Bayes:
+Bayesian Statistics Made Simple</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(124).pdf" style="text-decoration:none;">Programming Fundamentals - A Modular
+Structured Approach using C++</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(125).pdf" style="text-decoration:none;">Embedded Controllers
+Using C and Arduino/2E</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(126).pdf" style="text-decoration:none;">Python for Everybody</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(127).pdf" style="text-decoration:none;">Java with BlueJ Part 2</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(128).pdf" style="text-decoration:none;">Think Raku:
+How to Think Like a Computer Scientist</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(129).pdf" style="text-decoration:none;">Eloquent JavaScript: A Modern Introduction to Programming</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(130).pdf" style="text-decoration:none;">Implementing a One Address CPU in Logisim</a></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(131).pdf" style="text-decoration:none;">Think Stats:
+Exploratory Data Analysis in Python</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(132).pdf" style="text-decoration:none;">Introduction to
+Programming using Fortran 95/2003/2008</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(133).pdf" style="text-decoration:none;">Java with BlueJ</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(134).pdf" style="text-decoration:none;">Think Java:
+How to Think Like a Computer Scientist</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(135).pdf" style="text-decoration:none;">Foundations of Computation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(136).pdf" style="text-decoration:none;">Open Data Structures</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(137).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(138).pdf" style="text-decoration:none;">Combinatorics:
+an upper-level introductory course in enumeration, graph theory, and design theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(139).pdf" style="text-decoration:none;">Think Complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(140).pdf" style="text-decoration:none;">The Little Book of Semaphores</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(141).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: Learning with Python</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(142).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(143).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: C Version</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(144).pdf" style="text-decoration:none;">Think C++</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(145).pdf" style="text-decoration:none;">Pioneer Networks: Progressively Growing Generative Autoencoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(146).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(147).pdf" style="text-decoration:none;">Think Data Structures: Algorithms and Information Retrieval in Java</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(148).pdf" style="text-decoration:none;">Programming Languages: Application and
+Interpretation</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(149).pdf" style="text-decoration:none;">The Unicode
+Cookbook for Linguists</a></li>   
+  
 </ul>  
   
   
