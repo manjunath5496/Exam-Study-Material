@@ -1503,7 +1503,45 @@ A tutorial for psychology students and other beginners</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(198).pdf" style="text-decoration:none;">Psychology: The Science of Human Potential</a></li>                              
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(199).pdf" style="text-decoration:none;">Human Behavior and the Social Environment II</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(200).pdf" style="text-decoration:none;">General Psychology for Honors Students</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(200).pdf" style="text-decoration:none;">General Psychology for Honors Students</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(201).pdf" style="text-decoration:none;">Attenuated Democracy</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(202).pdf" style="text-decoration:none;">The History of Our Tribe: Hominini</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(203).pdf" style="text-decoration:none;">Variational Adversarial Active Learning</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(204).pdf" style="text-decoration:none;">Perspectives: An Open Introduction to Cultural Anthropology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(205).pdf" style="text-decoration:none;">Australian Politics
+and Policy</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(206).pdf" style="text-decoration:none;">Native Peoples of North America</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(207).pdf" style="text-decoration:none;">Community Resilience to Climate Change: Theory, Research and Practice</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(208).pdf" style="text-decoration:none;">First Amendment:
+Cases, Controversies, and Contexts</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(209).pdf" style="text-decoration:none;">The Law, Corporate Finance, and Management</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(210).pdf" style="text-decoration:none;">State and Local Government and Politics: Prospects for Sustainability</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(211).pdf" style="text-decoration:none;">Quantitative Research Methods for Political Science, Public Policy and Public Administration</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(212).pdf" style="text-decoration:none;">Languages and Worldview</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(213).pdf" style="text-decoration:none;">Social Science Research: Principles, Methods, and Practices</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(214).pdf" style="text-decoration:none;">International
+Relations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(215).pdf" style="text-decoration:none;">American Government</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(216).pdf" style="text-decoration:none;">Sustainability: A Comprehensive
+Foundation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(217).pdf" style="text-decoration:none;">American Government and Politics in the Information Age</a></li>
+   
+   
   
 </ul>  
   
