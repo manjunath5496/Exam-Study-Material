@@ -1138,7 +1138,21 @@ Microeconomics 2e</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(19).pdf" style="text-decoration:none;">Economic Sophisms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(20).pdf" style="text-decoration:none;">Transportation Economics</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(21).pdf" style="text-decoration:none;">Contested Childhoods:
+Growing up in Migrancy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(22).pdf" style="text-decoration:none;">New Horizons for a Data-Driven Economy</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(23).pdf" style="text-decoration:none;">The Hackable City: Digital Media and Collaborative City-Making in the Network Society</a></li> 
+ 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(24).pdf" style="text-decoration:none;">Reality Lost: Markets of Attention,
+Misinformation and Manipulation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(25).pdf" style="text-decoration:none;">Achieving the Paris Climate Agreement Goals</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(26).pdf" style="text-decoration:none;">Autonomous Driving</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(27).pdf" style="text-decoration:none;">The Cellular Automaton
+Interpretation of Quantum Mechanics</a></li>
+   
+ 
 
 
 
