@@ -1106,24 +1106,28 @@ Entrance Exams </a></li>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(1).pdf" style="text-decoration:none;">Improving Sample Quality by Training and Sampling from Latent Energy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(1).pdf" style="text-decoration:none;">Introduction to Women, Gender,
+Sexuality Studies</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(2).pdf" style="text-decoration:none;">A Sober Look at the Unsupervised Learning of Disentangled Representations and their Evaluation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(2).pdf" style="text-decoration:none;">Macroeconomics: Theory Through Applications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(3).pdf" style="text-decoration:none;">Many-to-Many Voice Conversion using Cycle-Consistent Variational Autoencoder with Multiple Decoders</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(4).pdf" style="text-decoration:none;">Evidential Disambiguation of Latent Multimodality in Conditional Variational Autoencoders</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(5).pdf" style="text-decoration:none;">Non-parallel Voice Conversion with Controllable Speaker Individuality using Variational Autoencoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(6).pdf" style="text-decoration:none;">Cross-population Variational Autoencoders</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(7).pdf" style="text-decoration:none;">Improving Multimodal Generative Models with Disentangled Latent Partitions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(3).pdf" style="text-decoration:none;">Introduction to Economic Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(4).pdf" style="text-decoration:none;">Good Corporation,
+Bad Corporation: Corporate Social Responsibility in the Global Economy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(5).pdf" style="text-decoration:none;">Boundless Economics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(6).pdf" style="text-decoration:none;">International Economics: Theory and Policy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(7).pdf" style="text-decoration:none;">Theory and Applications of Microeconomics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(8).pdf" style="text-decoration:none;"> On variational lower bounds of mutual information </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(9).pdf" style="text-decoration:none;">Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(8).pdf" style="text-decoration:none;"> Finance, Banking, and Money </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(9).pdf" style="text-decoration:none;">The Economics of Food and Agricultural Markets</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(10).pdf" style="text-decoration:none;">Group-based Learning of Disentangled Representations with Generalizability for Novel Contents</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(11).pdf" style="text-decoration:none;">Hierarchical Linear Disentanglement of Data-Driven Conceptual Spaces</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(12).pdf" style="text-decoration:none;">T-CVAE: Transformer-Based Conditioned Variational Autoencoder for Story Completion</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(13).pdf" style="text-decoration:none;">Joint separation, dereverberation and classification of multiple sources using multichannel variational autoencoder with auxiliary classifier</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(10).pdf" style="text-decoration:none;">Principles of
+Macroeconomics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(11).pdf" style="text-decoration:none;">International Trade: Theory and Policy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(12).pdf" style="text-decoration:none;">An Introduction
+to Cooperation and Mutualism</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(13).pdf" style="text-decoration:none;">Fundamentals of Global Strategy</a></li>
 
 </ul>  
   
