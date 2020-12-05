@@ -1664,6 +1664,65 @@ Modules: Volume 4</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(274).pdf" style="text-decoration:none;">Microwave and RF Design
 Amplifiers and Oscillators: Volume 5</a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(275).pdf" style="text-decoration:none;">Extended Readings on Copyright</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(276).pdf" style="text-decoration:none;">Global Corruption: Law, Theory and Practice</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(277).pdf" style="text-decoration:none;">Open-Source Property: A Free Casebook</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(278).pdf" style="text-decoration:none;"> Fundamentals of Business Law</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(279).pdf" style="text-decoration:none;">Business Law I Essentials</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(280).pdf" style="text-decoration:none;">Trademark Law: An Open-Source Casebook</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(281).pdf" style="text-decoration:none;">Professional Responsibility:
+An Open-Source Casebook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(282).pdf" style="text-decoration:none;">The Legal Environment and Foundations of Business Law </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(283).pdf" style="text-decoration:none;">Introduction to the Law of Property, Estate Planning and Insurance</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(284).pdf" style="text-decoration:none;">Controlling generative models with continuous factors of variations</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(285).pdf" style="text-decoration:none;">Learning Discrete Distributions by Dequantization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(286).pdf" style="text-decoration:none;">CosmoVAE: Variational Autoencoder for CMB Image Inpainting</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(287).pdf" style="text-decoration:none;">On Implicit Regularization in beta-VAEs</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(288).pdf" style="text-decoration:none;">Intellectual Property: Law and the Information Society — Cases and Materials</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(289).pdf" style="text-decoration:none;">Legal Aspects of Marketing and Sales</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(290).pdf" style="text-decoration:none;">Weakly-Supervised Disentanglement Without Compromises</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(291).pdf" style="text-decoration:none;">Learning Flat Latent Manifolds with VAEs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(292).pdf" style="text-decoration:none;">MCENET: Multi-Context Encoder Network for Homogeneous Agent Trajectory Prediction in Mixed Traffic</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(293).pdf" style="text-decoration:none;">Law of Wills</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(294).pdf" style="text-decoration:none;">Introduction to Criminal Investigation: Processes, Practices and Thinking</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(295).pdf" style="text-decoration:none;">Marine Law and Policy for Scientists and Managers</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(296).pdf" style="text-decoration:none;">Law 101: Fundamentals of Law, New York</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(297).pdf" style="text-decoration:none;">The Legal and Ethical Environment of Business</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(298).pdf" style="text-decoration:none;">What Color is Your C.F.R.?</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(299).pdf" style="text-decoration:none;">Computer-Aided Exercises in
+Civil Procedure</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(300).pdf" style="text-decoration:none;">Ethics in Law Enforcement</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(301).pdf" style="text-decoration:none;"> The Indigo Book: A Manual of Legal Citation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(302).pdf" style="text-decoration:none;">Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of beta-VAE</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(303).pdf" style="text-decoration:none;">SOU-CCJ230 Introduction to the American Criminal Justice System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(304).pdf" style="text-decoration:none;">The Pay for Success Handbook</a></li>                              
+
+
+
+
+
 </ul>  
   
   
