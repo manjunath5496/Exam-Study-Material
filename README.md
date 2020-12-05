@@ -1873,6 +1873,19 @@ Art</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(378).pdf" style="text-decoration:none;">Studying the Bible: The Tanakh and Early Christian Writings</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(379).pdf" style="text-decoration:none;">Intermediate Biblical Greek Reader: Galatians and Related Texts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(380).pdf" style="text-decoration:none;">Keys to Understanding the Middle East</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(381).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Greek Art</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(382).pdf" style="text-decoration:none;">American Environmental History </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(383).pdf" style="text-decoration:none;">Canadian History: Pre-Confederation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(384).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Greek Art</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(385).pdf" style="text-decoration:none;">U.S. History</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(386).pdf" style="text-decoration:none;">Mythology Unbound: An Online Textbook for Classical Mythology</a></li> 
  
 </ul>  
   
