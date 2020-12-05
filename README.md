@@ -1768,6 +1768,25 @@ Advanced Water Mathematics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(324).pdf" style="text-decoration:none;">Laboratory Manual for Introductory Geology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(325).pdf" style="text-decoration:none;">Information Strategies for Communicators</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(326).pdf" style="text-decoration:none;">Basic Political Concepts</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(327).pdf" style="text-decoration:none;">Strategies
+for building and branding an English as a foreign language department</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(328).pdf" style="text-decoration:none;">Business Processes and
+Information Technology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(329).pdf" style="text-decoration:none;">Business Fundamentals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(330).pdf" style="text-decoration:none;"> The CIO Handbook</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(331).pdf" style="text-decoration:none;">Cognitive Patterns:
+Problem-Solving Frameworks for Object Technology</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(332).pdf" style="text-decoration:none;">Contemporary Cataloging</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(333).pdf" style="text-decoration:none;">Database Systems
+for Management</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(334).pdf" style="text-decoration:none;">Data Mining for the Masses</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(335).pdf" style="text-decoration:none;">Introduction to
+Digital Logic with Laboratory Exercises</a></li>
+         
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(336).pdf" style="text-decoration:none;">Stand up, Speak out: The Practice and Ethics of Public Speaking</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(337).pdf" style="text-decoration:none;">The Data Journalism Handbook</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(338).pdf" style="text-decoration:none;">Media Innovation and Entrepreneurship</a></li>
