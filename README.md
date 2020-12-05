@@ -2006,6 +2006,8 @@ British Literature II: Romantic Era to the Twentieth Century and Beyond</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(436).pdf" style="text-decoration:none;">
 Writing as Material Practice: Substance, surface and medium</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(437).pdf" style="text-decoration:none;">
+The Process of Research Writing</a></li>
   
 </ul>  
   
