@@ -1736,7 +1736,29 @@ Writing and Proof</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(310).pdf" style="text-decoration:none;">Introduction to Financial
 Mathematics: Concepts and Computational Methods</a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(311).pdf" style="text-decoration:none;">Climate Toolkit: A Resource Manual for
+Science and Action</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(312).pdf" style="text-decoration:none;">Geological Structures: a Practical Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(313).pdf" style="text-decoration:none;">The Delft Sand, Clay and Rock
+Cutting Model</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(314).pdf" style="text-decoration:none;">Introduction to Environmental Science</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(315).pdf" style="text-decoration:none;">Permaculture Design: Tools for Climate Resilience</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(316).pdf" style="text-decoration:none;">Red Seal Landscape Horticulturist
+Identify Plants and Plant Requirements</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(317).pdf" style="text-decoration:none;">Soils Laboratory Manual</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(318).pdf" style="text-decoration:none;">Living With Earthquakes In The Pacific Northwest</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(319).pdf" style="text-decoration:none;">Introduction to Oceanography</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(320).pdf" style="text-decoration:none;">Introduction to Climate Science</a></li>
+
+ 
 
 
 </ul>  
