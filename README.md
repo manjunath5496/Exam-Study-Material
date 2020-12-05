@@ -1590,7 +1590,8 @@ Epidemiology</a></li>
 
 
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(244).pdf" style="text-decoration:none;">Health Case Studies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(244).pdf" style="text-decoration:none;">Semiconductor Devices:
+Theory and Application</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(245).pdf" style="text-decoration:none;">Introduction to Aerospace Structures
 and Materials</a></li>
@@ -1639,6 +1640,10 @@ Developing New Products and Services</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(265).pdf" style="text-decoration:none;">Operational Amplifiers and Linear Integrated Circuits: Theory and Application/3E</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(266).pdf" style="text-decoration:none;">Basics of Fluid Mechanics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(267).pdf" style="text-decoration:none;">Fundamentals of Compressible Fluid
+Mechanics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(268).PDF" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems</a></li> 
  
   
 </ul>  
