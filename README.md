@@ -1678,23 +1678,28 @@ An Open-Source Casebook</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(282).pdf" style="text-decoration:none;">The Legal Environment and Foundations of Business Law </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(283).pdf" style="text-decoration:none;">Introduction to the Law of Property, Estate Planning and Insurance</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(284).pdf" style="text-decoration:none;">Controlling generative models with continuous factors of variations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(284).pdf" style="text-decoration:none;">Euclidean plane and its relatives:
+A minimalist introduction</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(285).pdf" style="text-decoration:none;">Learning Discrete Distributions by Dequantization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(285).pdf" style="text-decoration:none;">Teaching Mathematics at
+Secondary Level</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(286).pdf" style="text-decoration:none;">CosmoVAE: Variational Autoencoder for CMB Image Inpainting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(286).pdf" style="text-decoration:none;">Advanced High School Statistics</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(287).pdf" style="text-decoration:none;">On Implicit Regularization in beta-VAEs</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(287).pdf" style="text-decoration:none;">A Cool Brisk Walk
+Through Discrete Mathematics</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(288).pdf" style="text-decoration:none;">Intellectual Property: Law and the Information Society — Cases and Materials</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(289).pdf" style="text-decoration:none;">Legal Aspects of Marketing and Sales</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(290).pdf" style="text-decoration:none;">Weakly-Supervised Disentanglement Without Compromises</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(290).pdf" style="text-decoration:none;">Geometry with an Introduction to Cosmic Topology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(291).pdf" style="text-decoration:none;">Learning Flat Latent Manifolds with VAEs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(292).pdf" style="text-decoration:none;">MCENET: Multi-Context Encoder Network for Homogeneous Agent Trajectory Prediction in Mixed Traffic</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(291).pdf" style="text-decoration:none;">A Gentle Introduction to the Art of
+Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(292).pdf" style="text-decoration:none;">Introduction to Game Theory:
+a Discovery Approach</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(293).pdf" style="text-decoration:none;">Law of Wills</a></li> 
  
 
@@ -1714,11 +1719,22 @@ Civil Procedure</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(301).pdf" style="text-decoration:none;"> The Indigo Book: A Manual of Legal Citation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(302).pdf" style="text-decoration:none;">Out-of-Distribution Detection in Multi-Label Datasets using Latent Space of beta-VAE</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(302).pdf" style="text-decoration:none;">Introductory Statistics
+with Randomization and Simulation</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(303).pdf" style="text-decoration:none;">SOU-CCJ230 Introduction to the American Criminal Justice System</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(304).pdf" style="text-decoration:none;">The Pay for Success Handbook</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(305).pdf" style="text-decoration:none;"> Mathematical Reasoning
+Writing and Proof</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(306).pdf" style="text-decoration:none;">An Introduction to the Theory of Numbers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(307).pdf" style="text-decoration:none;">Multivariable Calculus</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(308).pdf" style="text-decoration:none;">Statistical Inference For Everyone</a></li>                              
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(309).pdf" style="text-decoration:none;">Answering questions with data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(310).pdf" style="text-decoration:none;">Introduction to Financial
+Mathematics: Concepts and Computational Methods</a></li>                              
 
 
 
