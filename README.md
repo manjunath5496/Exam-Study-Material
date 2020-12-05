@@ -1787,6 +1787,20 @@ Media, Society, Culture and You</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(347).pdf" style="text-decoration:none;">Writing for
 Electronic Media</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(348).pdf" style="text-decoration:none;"> Be Credible</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(349).pdf" style="text-decoration:none;">Communication in the Real World</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(350).pdf" style="text-decoration:none;">Digital Foundations: Introduction to Media Design with the Adobe Creative Cloud</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(351).pdf" style="text-decoration:none;">Exploring Public Speaking</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(352).pdf" style="text-decoration:none;">New Media Futures</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(353).pdf" style="text-decoration:none;">Open Technical Writing: An Open-Access Text for Instruction in Technical and Professional Writing</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(354).pdf" style="text-decoration:none;">Understanding Media and Culture</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(355).pdf" style="text-decoration:none;">Writing for Strategic Communication Industries</a></li> 
  
    
 
