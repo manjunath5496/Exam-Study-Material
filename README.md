@@ -1821,7 +1821,40 @@ Electronic Media</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(355).pdf" style="text-decoration:none;">Writing for Strategic Communication Industries</a></li> 
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(356).pdf" style="text-decoration:none;">Diseases of Children in the
+Subtropics and Tropics</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(357).pdf" style="text-decoration:none;">Emerging Perspectives on
+Learning, Teaching, and Technology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(358).pdf" style="text-decoration:none;">Global Business Strategy:
+A Systems Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(359).pdf" style="text-decoration:none;">Information Technology and
+the Networked Economy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(360).pdf" style="text-decoration:none;">Information Technology for
+Management</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(361).pdf" style="text-decoration:none;">Interpreting Information
+Systems in Organizations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(362).pdf" style="text-decoration:none;">Introducing Marketing</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(363).pdf" style="text-decoration:none;">Introductory
+Business Statistics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(364).pdf" style="text-decoration:none;">Managing for Productivity
+in the Hospitality Industry</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(365).pdf" style="text-decoration:none;">Mexico and Sustainable
+Development</a></li>  
    
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(366).pdf" style="text-decoration:none;">New
+Standards for Long-Term Business Survival</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(367).pdf" style="text-decoration:none;">
+Teachers as Readers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(368).pdf" style="text-decoration:none;">Density Deconvolution with Normalizing Flows</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(369).pdf" style="text-decoration:none;">Tourism
+the International Business</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(370).pdf" style="text-decoration:none;">Electronic Commerce:
+The Strategic Perspective</a></li>   
 
 </ul>  
   
