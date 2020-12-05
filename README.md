@@ -1941,29 +1941,29 @@ On Pompey's Command (De Imperio), 27-49: Latin text, study aids with vocabulary,
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(412).pdf" style="text-decoration:none;">Design Discourse: Composing and Revising Programs in Professional and Technical Writing</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(413).pdf" style="text-decoration:none;"> Beyond Dichotomy: Synergizing Writing Center and Classroom Pedagogies</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(414).pdf" style="text-decoration:none;">Teaching Autoethnography: Personal
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(413).pdf" style="text-decoration:none;"> Beyond Dichotomy: Synergizing Writing Center and Classroom Pedagogies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(414).pdf" style="text-decoration:none;">Teaching Autoethnography: Personal
 Writing in the Classroom</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(415).pdf" style="text-decoration:none;">A Rhetoric of Literate Action: Literate Action Volume 1</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(415).pdf" style="text-decoration:none;">A Rhetoric of Literate Action: Literate Action Volume 1</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(416).pdf" style="text-decoration:none;">Chinese Rhetoric and Writing: An Introduction for Language Teachers</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(416).pdf" style="text-decoration:none;">Chinese Rhetoric and Writing: An Introduction for Language Teachers</a></li> 
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(417).pdf" style="text-decoration:none;">Beginning Japanese for Professionals: Book 2</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(417).pdf" style="text-decoration:none;">Beginning Japanese for Professionals: Book 2</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(418).pdf" style="text-decoration:none;">Naming the Unnameable: An Approach to Poetry for New Generations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(418).pdf" style="text-decoration:none;">Naming the Unnameable: An Approach to Poetry for New Generations</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(419).pdf" style="text-decoration:none;">Writing in
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(419).pdf" style="text-decoration:none;">Writing in
 College: From Competence to Excellence</a></li>  
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(420).pdf" style="text-decoration:none;">
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(420).pdf" style="text-decoration:none;">
 Literature, the Humanities, and Humanity </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(421).pdf" style="text-decoration:none;">
-Conventions 101: A Functional Approach to Teaching (and Assessing!) Grammar and Punctuation</a></li>
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ecn(421).pdf" style="text-decoration:none;">
+Conventions 101: A Functional Approach to Teaching (and Assessing!) Grammar and Punctuation</a></li> 
 </ul>  
   
   
