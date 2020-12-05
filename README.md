@@ -1582,7 +1582,64 @@ Cases Spanning the Globe</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(238).pdf" style="text-decoration:none;"> Nursing Care at the End of Life</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(239).pdf" style="text-decoration:none;">Supporting Individuals with Intellectual Disabilities and Mental Illness</a></li>                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(240).pdf" style="text-decoration:none;">Nursing Pharmacology </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(241).pdf" style="text-decoration:none;">Transitions to Professional Nursing Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(242).pdf" style="text-decoration:none;">Undergraduate Diagnostic Imaging Fundamentals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(243).pdf" style="text-decoration:none;">Veterinary
+Epidemiology</a></li>
 
+
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(244).pdf" style="text-decoration:none;">Health Case Studies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(245).pdf" style="text-decoration:none;">Introduction to Aerospace Structures
+and Materials</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(246).pdf" style="text-decoration:none;">Building information - representation and management</a></li>   
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(247).pdf" style="text-decoration:none;">Dredging Engineering
+Special Topics</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(248).pdf" style="text-decoration:none;">A Brief Introduction to Engineering
+Computation with MATLAB</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(249).pdf" style="text-decoration:none;">AC Circuits</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(250).pdf" style="text-decoration:none;">AC Electrical Circuit Analysis:
+A Practical Approach</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(251).pdf" style="text-decoration:none;">Applied Fluid Mechanics Lab Manual</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(252).pdf" style="text-decoration:none;">Building Maintenance and Construction: Tools and Maintenance Tasks (Interactive)</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(253).pdf" style="text-decoration:none;">Chemical Process
+Dynamics and Controls</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(254).pdf" style="text-decoration:none;">DC Circuits</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(255).pdf" style="text-decoration:none;">DC Electrical Circuit Analysis:
+A Practical Approach</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(256).pdf" style="text-decoration:none;">Direct Energy Conversion</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(257).pdf" style="text-decoration:none;">
+Developing New Products and Services</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(258).pdf" style="text-decoration:none;">Electromagnetics, Volume 1</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(259).pdf" style="text-decoration:none;">Electromagnetics, Volume 2</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(260).pdf" style="text-decoration:none;">Fundamentals of Electrical Engineering I</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(261).pdf" style="text-decoration:none;">Fundamentals of Infrastructure Management</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(262).pdf" style="text-decoration:none;">Introduction to Industrial Engineering</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(263).pdf" style="text-decoration:none;">Introduction to Linear, Time-Invariant, Dynamic Systems for Students of Engineering</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(264).pdf" style="text-decoration:none;">Manufacturing Processes 4-5</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(265).pdf" style="text-decoration:none;">Operational Amplifiers and Linear Integrated Circuits: Theory and Application/3E</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(266).pdf" style="text-decoration:none;">Basics of Fluid Mechanics</a></li> 
+ 
   
 </ul>  
   
