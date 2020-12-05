@@ -1758,7 +1758,11 @@ Identify Plants and Plant Requirements</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(320).pdf" style="text-decoration:none;">Introduction to Climate Science</a></li>
 
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(321).pdf" style="text-decoration:none;">
+Advanced Water Mathematics </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(322).pdf" style="text-decoration:none;">Physical Geology</a></li>
+
 
 
 </ul>  
