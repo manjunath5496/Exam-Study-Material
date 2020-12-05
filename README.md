@@ -1763,7 +1763,32 @@ Advanced Water Mathematics </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(322).pdf" style="text-decoration:none;">Physical Geology</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(323).pdf" style="text-decoration:none;">A Guide to Technical Communications: Strategies and Applications</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(324).pdf" style="text-decoration:none;">Laboratory Manual for Introductory Geology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(325).pdf" style="text-decoration:none;">Information Strategies for Communicators</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(336).pdf" style="text-decoration:none;">Stand up, Speak out: The Practice and Ethics of Public Speaking</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(337).pdf" style="text-decoration:none;">The Data Journalism Handbook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(338).pdf" style="text-decoration:none;">Media Innovation and Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(339).pdf" style="text-decoration:none;">Communication, Affect, and Learning
+in the Classroom</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(340).pdf" style="text-decoration:none;"> Business Communication for Success</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(341).pdf" style="text-decoration:none;">Media Studies 101</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(342).pdf" style="text-decoration:none;">Management Communication</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(343).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(344).pdf" style="text-decoration:none;">Writing Unleashed: Content and Structure</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(345).pdf" style="text-decoration:none;">
+Media, Society, Culture and You</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(346).pdf" style="text-decoration:none;">Message Processing: The Science of Creating Understanding</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(347).pdf" style="text-decoration:none;">Writing for
+Electronic Media</a></li>
+
+ 
+   
 
 </ul>  
   
