@@ -1997,7 +1997,14 @@ Writing the Nation: A Concise Introduction to American Literature 1865 to Presen
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(433).pdf" style="text-decoration:none;">
 The Ideologies of Lived Space in Literary Texts, Ancient and Modern</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(434).pdf" style="text-decoration:none;">Interpreting Love Narratives in East Asian Literature and Film</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(435).pdf" style="text-decoration:none;">
+British Literature II: Romantic Era to the Twentieth Century and Beyond</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(436).pdf" style="text-decoration:none;">
+Writing as Material Practice: Substance, surface and medium</a></li>
 
   
 </ul>  
