@@ -2018,7 +2018,14 @@ Compact Anthology of World Literature: Part 2</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(439).pdf" style="text-decoration:none;">
 Compact Anthology of World Literature: Part 3</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(441).pdf" style="text-decoration:none;">
+World Literature I: Beginnings to 1650 - Part One</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(442).pdf" style="text-decoration:none;">
+World Literature I: Beginnings to 1650 - Part Two</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(443).pdf" style="text-decoration:none;">
+World Literature I: Beginnings to 1650 - Part Three</a></li>
 
 
 
