@@ -1848,14 +1848,32 @@ Standards for Long-Term Business Survival</a></li>
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(367).pdf" style="text-decoration:none;">
 Teachers as Readers</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(368).pdf" style="text-decoration:none;">Density Deconvolution with Normalizing Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(368).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Etruscan art</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(369).pdf" style="text-decoration:none;">Tourism
 the International Business</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(370).pdf" style="text-decoration:none;">Electronic Commerce:
 The Strategic Perspective</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(371).pdf" style="text-decoration:none;">History in the Making: A History of the People of the United States of America to 1877</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(372).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Egyptian
+Art</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(373).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Near
+Eastern Art</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(374).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Aegean
+Art</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(375).pdf" style="text-decoration:none;">Oregon's History: People of the Northwest in the Land of Eden</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(376).pdf" style="text-decoration:none;">The American Yawp: A Massively Collaborative Open U.S. History Textbook, Vol. 1: To 1877</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(377).pdf" style="text-decoration:none;">Placing the History of College Writing: Stories from the Incomplete Archive</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(378).pdf" style="text-decoration:none;">Studying the Bible: The Tanakh and Early Christian Writings</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(379).pdf" style="text-decoration:none;">Intermediate Biblical Greek Reader: Galatians and Related Texts</a></li>
+ 
 </ul>  
   
   
