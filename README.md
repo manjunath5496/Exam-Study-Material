@@ -2008,7 +2008,22 @@ Writing as Material Practice: Substance, surface and medium</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(437).pdf" style="text-decoration:none;">
 The Process of Research Writing</a></li>
-  
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(440).pdf" style="text-decoration:none;">
+Compact Anthology of World Literature: Part 1</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(438).pdf" style="text-decoration:none;">
+Compact Anthology of World Literature: Part 2</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(439).pdf" style="text-decoration:none;">
+Compact Anthology of World Literature: Part 3</a></li>
+
+
+
+
+
+
+
 </ul>  
   
   
