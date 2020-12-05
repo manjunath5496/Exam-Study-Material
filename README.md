@@ -1964,9 +1964,43 @@ Literature, the Humanities, and Humanity </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(421).pdf" style="text-decoration:none;">
 Conventions 101: A Functional Approach to Teaching (and Assessing!) Grammar and Punctuation</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(422).pdf" style="text-decoration:none;"> British Literature: Middle Ages to the Eighteenth Century and Neoclassicism</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(423).pdf" style="text-decoration:none;">Let's Get Writing!</a></li> 
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(424).pdf" style="text-decoration:none;">Becoming America: An Exploration of American Literature from Precolonial to Post-Revolution</a></li>  
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(425).pdf" style="text-decoration:none;">Working With Academic Literacies: Case Studies Towards Transformative Practice</a></li> 
   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(426).pdf" style="text-decoration:none;">BC Reads: Adult Literacy Fundamental English - Course Pack 5</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(427).pdf" style="text-decoration:none;">BC Reads: Adult Literacy Fundamental English - Course Pack 6</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(428).pdf" style="text-decoration:none;">Technical Writing</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(429).pdf" style="text-decoration:none;">
+EmpoWORD: A Student-Centered Anthology and Handbook for College Writers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(430).pdf" style="text-decoration:none;">
+English Composition</a></li>
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(431).pdf" style="text-decoration:none;">The Simple Math of Writing Well: Writing for the 21st Century</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(432).pdf" style="text-decoration:none;">
+Writing the Nation: A Concise Introduction to American Literature 1865 to Present</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/1/ecn(433).pdf" style="text-decoration:none;">
+The Ideologies of Lived Space in Literary Texts, Ancient and Modern</a></li>
+
+
+
+  
+</ul>  
   
   
   
