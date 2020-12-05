@@ -1889,6 +1889,80 @@ Art</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(387).pdf" style="text-decoration:none;">Smarthistory guide to Ancient Roman Art</a></li>    
    
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(388).pdf" style="text-decoration:none;">Cicero, Against Verres, 2.1.53–86:
+Latin Text with Introduction, Study Questions, Commentary and English Translation</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(389).pdf" style="text-decoration:none;">International Advances in Writing Research: Cultures, Places, Measures</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(390).pdf" style="text-decoration:none;">Foundational Practices of Online Writing Instruction</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(391).pdf" style="text-decoration:none;">Copy(write): Intellectual Property in the Writing Classroom</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(392).pdf" style="text-decoration:none;">The Word on College Reading and Writing</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(393).pdf" style="text-decoration:none;">Writing Programs Worldwide: Profiles of Academic Writing in Many Places</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(394).pdf" style="text-decoration:none;">About Writing: A Guide</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(395).pdf" style="text-decoration:none;">Virgil, Aeneid 4.1–299:
+Latin Text, Study Questions, Commentary and Interpretative Essays</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(396).pdf" style="text-decoration:none;">Technical Writing @ SLCC</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(397).pdf" style="text-decoration:none;">Steps to Success: Crossing the
+Bridge Between Literacy Research and Practice</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(398).pdf" style="text-decoration:none;">Informed Arguments: A Guide to Writing and Research</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(399).pdf" style="text-decoration:none;">YOU, WRITING!
+A Guide to College Composition</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(400).pdf" style="text-decoration:none;">Antiracist Writing Assessment Ecologies: Teaching and Assessing Writing for a Socially Just Future</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(401).pdf" style="text-decoration:none;">Tacitus, Annals, 15.20–23, 33–45: Latin Text, Study Aids with Vocabulary, and Commentary</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(402).pdf" style="text-decoration:none;">WAC and Second-Language Writers: Research Towards Linguistically and Culturally Inclusive Programs and Practices</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(403).pdf" style="text-decoration:none;">The Centrality of Style</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(404).pdf" style="text-decoration:none;">Beyond Argument: Essaying as a Practice of (ex)change</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(405).pdf" style="text-decoration:none;">Ovid, Metamorphoses,
+3.511–733: Latin Text with Introduction, Commentary, Glossary of Terms, Vocabulary Aid and Study Questions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(406).pdf" style="text-decoration:none;">Bad Ideas About Writing</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(407).pdf" style="text-decoration:none;">A Theory of Literate Action: Literate Action: Volume 2</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(408).pdf" style="text-decoration:none;">Cicero,
+On Pompey's Command (De Imperio), 27-49: Latin text, study aids with vocabulary, commentary, and translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(409).pdf" style="text-decoration:none;">Writing and Literature: Composition as Inquiry, Learning, Thinking, and Communication</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(410).pdf" style="text-decoration:none;">Oregon Writes Open Writing Text: A Project of Oregon Writes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(411).pdf" style="text-decoration:none;">Critical Expressivism: Theory and Practice in the Composition Classroom</a></li> 
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(412).pdf" style="text-decoration:none;">Design Discourse: Composing and Revising Programs in Professional and Technical Writing</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(413).pdf" style="text-decoration:none;"> Beyond Dichotomy: Synergizing Writing Center and Classroom Pedagogies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(414).pdf" style="text-decoration:none;">Teaching Autoethnography: Personal
+Writing in the Classroom</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(415).pdf" style="text-decoration:none;">A Rhetoric of Literate Action: Literate Action Volume 1</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(416).pdf" style="text-decoration:none;">Chinese Rhetoric and Writing: An Introduction for Language Teachers</a></li> 
+  
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(417).pdf" style="text-decoration:none;">Beginning Japanese for Professionals: Book 2</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(418).pdf" style="text-decoration:none;">Naming the Unnameable: An Approach to Poetry for New Generations</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(419).pdf" style="text-decoration:none;">Writing in
+College: From Competence to Excellence</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(420).pdf" style="text-decoration:none;">
+Literature, the Humanities, and Humanity </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(421).pdf" style="text-decoration:none;">
+Conventions 101: A Functional Approach to Teaching (and Assessing!) Grammar and Punctuation</a></li>
  
 </ul>  
   
