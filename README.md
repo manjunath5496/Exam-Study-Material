@@ -1541,7 +1541,19 @@ Relations</a></li>
 Foundation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(217).pdf" style="text-decoration:none;">American Government and Politics in the Information Age</a></li>
    
-   
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(218).pdf" style="text-decoration:none;">Health and Safety in Canadian Workplaces</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(219).pdf" style="text-decoration:none;">Guidelines for Improving
+the Effectiveness of Boards of Directors of Nonprofit Organizations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(220).pdf" style="text-decoration:none;">Small Business Management in the 21st Century</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(221).pdf" style="text-decoration:none;">Focusing on Organizational Change</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(222).pdf" style="text-decoration:none;">Corporate Governance</a></li> 
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(223).pdf" style="text-decoration:none;">Human Relations </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(224).pdf" style="text-decoration:none;"> Human Resource Management </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(225).pdf" style="text-decoration:none;">Problem Solving in Teams and Groups</a></li> 
+     
   
 </ul>  
   
