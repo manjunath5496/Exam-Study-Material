@@ -1553,7 +1553,36 @@ the Effectiveness of Boards of Directors of Nonprofit Organizations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(223).pdf" style="text-decoration:none;">Human Relations </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(224).pdf" style="text-decoration:none;"> Human Resource Management </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(225).pdf" style="text-decoration:none;">Problem Solving in Teams and Groups</a></li> 
-     
+    <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(226).pdf" style="text-decoration:none;">Large Animal Surgery</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(227).pdf" style="text-decoration:none;">Interpreting Canada's 2019 Food Guide and Food Labelling for Health Professionals </a></li> 
+  
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(228).pdf" style="text-decoration:none;">Literature Reviews for Education and
+Nursing Graduate Students</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(229).pdf" style="text-decoration:none;">A Laboratory Guide to Clinical
+Hematology</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(230).pdf" style="text-decoration:none;">The Complete Subjective Health Assessment</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(231).pdf" style="text-decoration:none;">
+Evidence-Based Massage Therapy </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(232).pdf" style="text-decoration:none;">Field Trials of Health
+Interventions: A Toolbox</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(233).pdf" style="text-decoration:none;">Vaccine Practice for Health Professionals: 1st Canadian Edition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(234).pdf" style="text-decoration:none;">Public Health Ethics:
+Cases Spanning the Globe</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(235).pdf" style="text-decoration:none;">Drugs quality control (Theoretical foundation and practical application): The Coursebook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(236).pdf" style="text-decoration:none;">Creative Clinical Teaching in the Health Professions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(237).pdf" style="text-decoration:none;">Concepts of Fitness and Wellness</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(238).pdf" style="text-decoration:none;"> Nursing Care at the End of Life</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Exam-Study-Material/blob/master/ecn(239).pdf" style="text-decoration:none;">Supporting Individuals with Intellectual Disabilities and Mental Illness</a></li>                             
+
   
 </ul>  
   
