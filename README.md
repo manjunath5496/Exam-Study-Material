@@ -2182,28 +2182,30 @@ Chicano Families</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(80).pdf" style="text-decoration:none;">Process of Communication</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(81).pdf" style="text-decoration:none;">Scenes of Sympathy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(82).pdf" style="text-decoration:none;">Sociology 200: Introduction to Women's Studies</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(83).pdf" style="text-decoration:none;">Advancing Environmental Education Practice</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(84).pdf" style="text-decoration:none;">Fundamentals of Public Speaking</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(85).pdf" style="text-decoration:none;">The Democracy Development Machine: Neoliberalism, Radical Pessimism, and Authoritarian Populism in Mayan Guatemala</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(86).pdf" style="text-decoration:none;">Reimagining Democracy: Lessons in Deliberative Democracy from the Irish Front Line</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(87).pdf" style="text-decoration:none;">Water Treatment Plant
+Operation Processes I</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(88).pdf" style="text-decoration:none;">Introduction to Sociology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(89).pdf" style="text-decoration:none;">Security, loyalty, and science</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(90).pdf" style="text-decoration:none;">Ritual Irony: Poetry and Sacrifice in Euripides</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(91).pdf" style="text-decoration:none;">The Anxiety of Freedom: Imagination and Individuality in Locke's Political Thought</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(92).pdf" style="text-decoration:none;">Water quality</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(93).pdf" style="text-decoration:none;">Psychology 172:
+Developmental Psychology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(94).pdf" style="text-decoration:none;">The Ethics of Criticism</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(95).pdf" style="text-decoration:none;">Power, Protection, and Free Trade: International Sources of U.S. Commercial Strategy, 1887–1939</a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
   
