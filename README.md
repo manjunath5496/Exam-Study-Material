@@ -2284,6 +2284,24 @@ Wastewater Treatment and Disposal II</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(130).pdf" style="text-decoration:none;">Struggles and Triumphs </a></li>    
    
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(131).pdf" style="text-decoration:none;">Not of Woman Born</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(132).pdf" style="text-decoration:none;">The Medieval Saga</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(133).pdf" style="text-decoration:none;">Communities of Saint Martin</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(134).pdf" style="text-decoration:none;">The Idea of the Book
+in the Middle Ages</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(136).pdf" style="text-decoration:none;">Job, Boethius, and epic truth</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(137).pdf" style="text-decoration:none;">Poets, Patrons, and Printers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(138).pdf" style="text-decoration:none;">Noble Bondsmen: Ministerial Marriages in the Archdiocese of Salzburg, 1100-1343</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(139).pdf" style="text-decoration:none;">Literature as Recreation
+in the Later Middle Ages</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(140).pdf" style="text-decoration:none;">From Song to Book: The Poetics of Writing in Old French Lyric and Lyrical Narrative Poetry</a></li>
 
 
 </ul>  
