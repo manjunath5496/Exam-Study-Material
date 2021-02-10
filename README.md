@@ -2055,43 +2055,45 @@ World Literature I: Beginnings to 1650 - Part Three</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(15).pdf" style="text-decoration:none;">Homicide in American Fiction, 1798-1860: A Study in Social Values</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(16).pdf" style="text-decoration:none;">Joyce: The Return of the Repressed</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(17).pdf" style="text-decoration:none;">Without Foundations: Justiftcation in Political Theory</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(18).pdf" style="text-decoration:none;">Women and Romance: The Consolations of Gender in the English Novel</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(19).pdf" style="text-decoration:none;">Business Ethics</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(20).pdf" style="text-decoration:none;">Telling the Truth: The Theory and Practice of Documentary Fiction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(21).pdf" style="text-decoration:none;"> Bang Chan: Social History of a Rural Community in Thailand</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(22).pdf" style="text-decoration:none;">Creativity / Anthropology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(23).pdf" style="text-decoration:none;">History and Power in
+the Study of Law</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(24).pdf" style="text-decoration:none;">Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(24).pdf" style="text-decoration:none;">Business 211: Introduction to Business Law</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(25).pdf" style="text-decoration:none;">Novels, Readers, and Reviewers</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(26).pdf" style="text-decoration:none;">Borderwork: Feminist Engagements with Comparative Literature</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(27).pdf" style="text-decoration:none;">The Afterlives of the Terror: Facing the Legacies of Mass Violence in Postrevolutionary France</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(28).pdf" style="text-decoration:none;">The Taming of Evolution: The Persistence of Nonevolutionary Views in the Study of Humans</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(29).pdf" style="text-decoration:none;">Distant Companions: Servants and Employers in Zambia, 1900–1985</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(31).pdf" style="text-decoration:none;">Tainted Souls and
+Painted Faces</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(32).pdf" style="text-decoration:none;">No Useless Mouth: Waging War and Fighting Hunger in the American Revolution</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(33).pdf" style="text-decoration:none;">Sex, Love, and Migration: Postsocialism, Modernity, and Intimacy from Istanbul to the Arctic</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(34).pdf" style="text-decoration:none;">Equality under the constitution</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(35).pdf" style="text-decoration:none;">The Cosmic Web: Scientific Field Models and Literary Strategies in the Twentieth Century</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
  
