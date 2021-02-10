@@ -2207,28 +2207,29 @@ Developmental Psychology</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(95).pdf" style="text-decoration:none;">Power, Protection, and Free Trade: International Sources of U.S. Commercial Strategy, 1887–1939</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(96).pdf" style="text-decoration:none;">Autobiographical Voices: Race, Gender, Self-Portraiture</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(97).pdf" style="text-decoration:none;">Water Supply </a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(98).pdf" style="text-decoration:none;">The Self and Its Pleasures</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(99).pdf" style="text-decoration:none;">When Right Makes Might</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(100).pdf" style="text-decoration:none;">Seductive Reasoning: Pluralism as the Problematic of Contemporary Literary Theory</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(101).pdf" style="text-decoration:none;">Creating Intercultural Communication Competence</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(102).pdf" style="text-decoration:none;">Madame Bovary on Trial</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(103).pdf" style="text-decoration:none;">Financial Citizenship: Experts, Publics, and the Politics of Central Banking</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(104).pdf" style="text-decoration:none;">Interpersonal
+Communication</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(105).pdf" style="text-decoration:none;">The Public and the Private in Aristotle's Political Philosophy</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
   
