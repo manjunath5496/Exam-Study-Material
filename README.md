@@ -2250,38 +2250,38 @@ Communication</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(113).pdf" style="text-decoration:none;">Clarissa's Ciphers: Meaning and Disruption in Richardson's Clarissa</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(114).pdf" style="text-decoration:none;"> Homer: The Poetry of the Past</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(115).pdf" style="text-decoration:none;">Revolution Goes East: Imperial Japan and Soviet Communism</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(116).pdf" style="text-decoration:none;">Informal Governance in the European Union: How Governments Make International Organizations Work</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(117).pdf" style="text-decoration:none;">Introduction to Water Systems Technology</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(118).pdf" style="text-decoration:none;">Power and Principle: The Politics of International Criminal Courts</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(119).pdf" style="text-decoration:none;">Corruption as a Last Resort: Adapting to the Market in Central Asia</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(120).pdf" style="text-decoration:none;">Water Distribution Operator II</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(121).pdf" style="text-decoration:none;">The Pseudo-Democrat's Dilemma: Why Election Observation Became an International Norm</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(122).pdf" style="text-decoration:none;">Ruling Capital: Emerging Markets and the Reregulation of Cross-Border Finance</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(123).pdf" style="text-decoration:none;">Survival Migration: Failed Governance and the Crisis of Displacement</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(124).pdf" style="text-decoration:none;">South!</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(125).pdf" style="text-decoration:none;">Commentaries on the Gallic War</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(126).pdf" style="text-decoration:none;">
-Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+Wastewater Treatment and Disposal II</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(127).pdf" style="text-decoration:none;">Up from Slavery</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(128).pdf" style="text-decoration:none;">The Fukushima Nuclear Power Plant Disaster and the Future of Renewable Energy</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(129).pdf" style="text-decoration:none;">Roughing It</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(130).pdf" style="text-decoration:none;">Struggles and Triumphs </a></li>    
    
 
 
