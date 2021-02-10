@@ -2112,72 +2112,74 @@ at the Seneca Women's Peace Encampment</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(46).pdf" style="text-decoration:none;">Cognitive Psychology</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(47).pdf" style="text-decoration:none;">The Challenge of Bewilderment</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(48).pdf" style="text-decoration:none;">Louis Agassiz as a Teacher: Illustrative Extracts on His Method of Instruction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(49).pdf" style="text-decoration:none;">Small Group Communication: An Open Educational Resources Publication By College Of The Canyons</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(50).pdf" style="text-decoration:none;">The Supplement of Reading</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(51).pdf" style="text-decoration:none;">Water Distribution Operator I</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(52).pdf" style="text-decoration:none;">Toward a Liberalism</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(53).pdf" style="text-decoration:none;">Chaos Bound</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(54).pdf" style="text-decoration:none;">The Comstocks of Cornell—The Definitive Autobiography </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(55).pdf" style="text-decoration:none;">Business-113 - Retail Management </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(56).pdf" style="text-decoration:none;">Phantom formations </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(57).pdf" style="text-decoration:none;">Secession and Security</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(58).pdf" style="text-decoration:none;">Decadent Genealogies</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(59).pdf" style="text-decoration:none;">Chinese Working-
+Class Lives</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(60).pdf" style="text-decoration:none;">Lavoisier, the crucial year: the background and origin of his first experiments on combustion in 1772 </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(61).pdf" style="text-decoration:none;"> Sons of the Gods,
+Children of Earth</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(62).pdf" style="text-decoration:none;">Principles Of Social Psychology</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(63).pdf" style="text-decoration:none;">Democracy's Children: Intellectuals and the Rise of Cultural Politics</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(64).pdf" style="text-decoration:none;">Critical terrains</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(65).pdf" style="text-decoration:none;">Allegories of America </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(66).pdf" style="text-decoration:none;">Introduction to Microbiology: Laboratory Manual</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(67).pdf" style="text-decoration:none;">Principles and Procedures of
+the Justice System</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(68).pdf" style="text-decoration:none;">
+Signature Pieces: On the Institution of Authorship</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(69).pdf" style="text-decoration:none;">Interpretive Conventions</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(70).pdf" style="text-decoration:none;">Sociology 102: Principles of Sociological Inquiry</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(71).pdf" style="text-decoration:none;">Nabokov: The Mystery of Literary Structures</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(72).pdf" style="text-decoration:none;">Physical Science Lab Manual</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(73).pdf" style="text-decoration:none;">Pop City: Korean Popular Culture and the Selling of Place</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(74).pdf" style="text-decoration:none;">The Worst Journey in the World</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(75).pdf" style="text-decoration:none;">Women's Work and
+Chicano Families</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(76).pdf" style="text-decoration:none;">The Expense of Spirit</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(77).pdf" style="text-decoration:none;">Physical Anthropology</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(78).pdf" style="text-decoration:none;">The Public Mapping Project: How Public Participation Can Revolutionize Redistricting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(79).pdf" style="text-decoration:none;">The other side of the story</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(80).pdf" style="text-decoration:none;">Process of Communication</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
