@@ -2294,7 +2294,7 @@ Wastewater Treatment and Disposal II</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(134).pdf" style="text-decoration:none;">The Idea of the Book
 in the Middle Ages</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(135).pdf" style="text-decoration:none;">Advancing Equity Planning Now</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(136).pdf" style="text-decoration:none;">Job, Boethius, and epic truth</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(137).pdf" style="text-decoration:none;">Poets, Patrons, and Printers</a></li>                              
