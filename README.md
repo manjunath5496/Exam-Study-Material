@@ -2231,25 +2231,25 @@ Communication</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(105).pdf" style="text-decoration:none;">The Public and the Private in Aristotle's Political Philosophy</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(106).pdf" style="text-decoration:none;">General Biology Laboratory Manual </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(107).pdf" style="text-decoration:none;">Communicating Climate Change: A Guide for Educators</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(108).pdf" style="text-decoration:none;">Atomic Assurance</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(109).pdf" style="text-decoration:none;">Logics of War</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(110).pdf" style="text-decoration:none;">Water Treatment and Plant Operation Processes II </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(111).pdf" style="text-decoration:none;">Wastewater Treatment And Disposal I</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(112).pdf" style="text-decoration:none;">Transfigured World</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(113).pdf" style="text-decoration:none;">Clarissa's Ciphers: Meaning and Disruption in Richardson's Clarissa</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(114).pdf" style="text-decoration:none;"> Homer: The Poetry of the Past</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
