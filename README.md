@@ -2095,22 +2095,23 @@ Painted Faces</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(35).pdf" style="text-decoration:none;">The Cosmic Web: Scientific Field Models and Literary Strategies in the Twentieth Century</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(36).pdf" style="text-decoration:none;">Interpreting Greek Tragedy</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(37).pdf" style="text-decoration:none;">Advanced Waterworks Mathematics: Learning and Understanding Mathematical Concepts in the Area of Water Distribution and Water Treatment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(38).pdf" style="text-decoration:none;">Poetry in Speech: Orality and Homeric Discourse</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(39).pdf" style="text-decoration:none;">186 A: Technical Theatre Practicum Textbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(40).pdf" style="text-decoration:none;">Nuclear Summer: The Clash of Communities
+at the Seneca Women's Peace Encampment</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(41).pdf" style="text-decoration:none;">The idea of the labyrinth from classical antiquity through the Middle Ages</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(42).pdf" style="text-decoration:none;">Writing in Limbo</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(43).pdf" style="text-decoration:none;">Lord I'm Coming Home: Everyday Aesthetics in Tidewater North Carolina</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(44).pdf" style="text-decoration:none;"> Greatness Engendered: George Eliot and Virginia Woolf</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(45).pdf" style="text-decoration:none;">Reasons of State</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(46).pdf" style="text-decoration:none;">Cognitive Psychology</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(47).pdf" style="text-decoration:none;">The Challenge of Bewilderment</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Blog/blob/master/1/b(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
